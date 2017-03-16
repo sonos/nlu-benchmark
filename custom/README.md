@@ -1,13 +1,20 @@
 # Natural Language Understanding benchmark
 
-This file contains the results of the benchmark we ran on December 22nd 2016 to compare natural language understanding services offering built-in solutions (Apple’s SiriKit, Amazon’s Alexa, Microsoft’s Luis, Google’s API.ai, and Snips’ SDK) for the intents covered by the [Snips SDK](https://sdk.snips.ai/). This benchmark and its results are described in length in the [following post](
-https://snips.ai/content/sdk-benchmark-visualisation/).
+This file contains the results of the benchmark we ran on March 16th 2017 to compare natural language understanding services offering custom solutions (a naive model based on regular expressions, Lastmile's RASA NLU, Recast.ai, and Snips' Pcfg parser) for three intents. This benchmark and its results will be described in more details in a soon to be released blog post.
 
-The data is structured by `domain`, and by `intent` within each `domain`. For each intent, aggregated statistics are contained in a `benchmark` dictionary containing the `f1`, `precision`, `recall`, and `classification accuracy` for each service, with corresponding uncertainty ranges (2 standard deviations). The same quantities are then given for each slot of each intent.
+We focused on three types of `intents`:
+* NavigateTracks with one `slot` that is neither built-in nor gazetteer-based,
+* GetWeather with two `slots` that are built-in,
+* PlayMusic with nine `slots` among which two are gazetteer-based.
 
-In addition to the `benchmark`, the list of `queries` is given for each `intent`. For each query, we provide the `classified_intent` returned by the classifier of each service, as well as the response given for each `slot`. For each of these responses, we provide its `value`. A `supervision` key contains either `TRUE`, `FALSE`, or `Not Applicable` if no response was given nor expected. The `expected_a_value` key corresponds to whether a response was expected for this slot. The later is used to compute the recall of the slot fillers, in particular.  
+400 queries have been generated for each intent with crowdsourcing methods, 300 are for training and 100 for validation.
+
+The data is structured by `intent` in `training_set.json` and `validate_set.json`. 
+
+The results of the benchmark are structured by `type` (execution time, intent classification precision, and token classification precision and recall), then by `training size` (number of queries selected from the training set, from `n=5` to `n=50`), and finally by `model`.
+
+Each value is displayed 5 times, corresponding to the number of random samples selected for each training size. 
 
 ### Disclaimer
 This benchmark has been run by Snips, which is one of the solutions benchmarked. To avoid biases in responses, this benchmark has been run in a blindfolded way, by a team independent from the data scientists working on the problem. The raw data is provided here to guarantee transparency.
 
-This benchmark is based on 328 queries, over 10 intents. Collection and supervision of results remained partially manual.
