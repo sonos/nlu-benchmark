@@ -11,7 +11,7 @@ We focused on three types of `intents`:
 
 The data is structured by `intent` in `training_set.json` and `validate_set.json`. 
 
-The results of the benchmark are structured by `type` (execution time, intent classification precision, and token classification precision and recall), then by `training size` (number of queries selected from the training set, from `n=5` to `n=50`), and finally by `model`.
+The results of the benchmark provided in `benchmark_results.json` are structured by `type` (execution time, intent classification precision, and token classification precision and recall), then by `training size` (number of queries selected from the training set, from `n=5` to `n=50`), and finally by `model`.
 
 Each value is displayed 5 times, corresponding to the number of random samples selected for each training size. 
 
