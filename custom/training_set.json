@@ -14,6 +14,48 @@
     {
       "data": [
         {
+          "text": "Find me "
+        },
+        {
+          "text": "some something like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please find "
+        },
+        {
+          "text": "some playlist similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " my favorite one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would like to hear "
+        },
+        {
+          "text": "some album similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " the one I have just listened to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
           "text": "Search for songs by "
         },
         {

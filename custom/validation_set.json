@@ -88,20 +88,6 @@
     {
       "data": [
         {
-          "text": "I need to hear the "
-        },
-        {
-          "text": "trending 92",
-          "entity": "top"
-        },
-        {
-          "text": " songs"
-        }
-      ]
-    },
-    {
-      "data": [
-        {
           "text": "Recommend me some cool stuff",
           "entity": "recommend"
         },
@@ -146,20 +132,6 @@
         {
           "text": "riotous",
           "entity": "mood"
-        }
-      ]
-    },
-    {
-      "data": [
-        {
-          "text": "search playlist for "
-        },
-        {
-          "text": "top fifty nine",
-          "entity": "top"
-        },
-        {
-          "text": " songs"
         }
       ]
     },
@@ -462,24 +434,6 @@
     {
       "data": [
         {
-          "text": "find some "
-        },
-        {
-          "text": "qasidah modern",
-          "entity": "genre"
-        },
-        {
-          "text": " music on the "
-        },
-        {
-          "text": "top 88",
-          "entity": "top"
-        }
-      ]
-    },
-    {
-      "data": [
-        {
           "text": "I need to hear "
         },
         {
@@ -630,20 +584,6 @@
         },
         {
           "text": " please "
-        }
-      ]
-    },
-    {
-      "data": [
-        {
-          "text": "Lets play the "
-        },
-        {
-          "text": "top charts 54",
-          "entity": "top"
-        },
-        {
-          "text": " songs"
         }
       ]
     },
