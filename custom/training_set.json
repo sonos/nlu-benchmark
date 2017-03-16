@@ -1,0 +1,11001 @@
+{
+  "PlayMusic": [
+    {
+      "data": [
+        {
+          "text": "find songs that were released "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Search for songs by "
+        },
+        {
+          "text": "hall",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "renegade promise",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "last",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "smyth patti",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "top 61",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you find the "
+        },
+        {
+          "text": "best 28",
+          "entity": "top"
+        },
+        {
+          "text": " songs from the billboard ranking"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I am in a "
+        },
+        {
+          "text": "melodious",
+          "entity": "mood"
+        },
+        {
+          "text": " mood play music to match"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "most popular 64",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "explosive lightning",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " playing"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some song from "
+        },
+        {
+          "text": "the last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Whispering Intensity",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some cantata tracks on "
+        },
+        {
+          "text": "Rasheedajustin",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the songs from "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " right now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to any music that's "
+        },
+        {
+          "text": "ecstatic",
+          "entity": "mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search for "
+        },
+        {
+          "text": "post britpop",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search for "
+        },
+        {
+          "text": "Humour Wins Every Time",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " songs for "
+        },
+        {
+          "text": "inventive",
+          "entity": "mood"
+        },
+        {
+          "text": " mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear my "
+        },
+        {
+          "text": "jenniferbridgett luelladusty fernandocatina",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to the "
+        },
+        {
+          "text": "latest",
+          "entity": "latest"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "My Wooden Promise",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me music from "
+        },
+        {
+          "text": "drowsy riot",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can we hear "
+        },
+        {
+          "text": "Chantellcandra Alaynasandra Graceonie",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear "
+        },
+        {
+          "text": "anything that sounds similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wanda jackson",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some songs from "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play the "
+        },
+        {
+          "text": "last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "potent sucker",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear something from "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "alcoholic moment",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find all current songs and "
+        },
+        {
+          "text": "surprise me!",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play "
+        },
+        {
+          "text": "neo-progressive rock",
+          "entity": "genre"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to "
+        },
+        {
+          "text": "ed ames",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need music to feel "
+        },
+        {
+          "text": "ambitious",
+          "entity": "mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "nuanced",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I wanna hear new things",
+          "entity": "recommend"
+        },
+        {
+          "text": " from this band"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music from "
+        },
+        {
+          "text": "a new breed of peepshow",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "Last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Suburban Vortex",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play me "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by "
+        },
+        {
+          "text": "Huey gray",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find new music from the "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to find this song from "
+        },
+        {
+          "text": "some playlist similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " this"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play "
+        },
+        {
+          "text": "steve lawrence",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "make me discover new stuff",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Now let's find "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music to listen to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search the "
+        },
+        {
+          "text": "Pearltomiko Meghannreyna",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist for music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "most popular fourty seven",
+          "entity": "top"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "slow down the mercy",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to feel "
+        },
+        {
+          "text": "agreable",
+          "entity": "mood"
+        },
+        {
+          "text": " when listening to music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me some "
+        },
+        {
+          "text": "deathcore",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to hear "
+        },
+        {
+          "text": "last symphony",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " of the genre "
+        },
+        {
+          "text": "j ska",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Maryellenharry Arnoldorandee Felipeashley",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "4-beat",
+          "entity": "genre"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me some new sound",
+          "entity": "recommend"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "sam and dave",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "anything similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " it."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear music from "
+        },
+        {
+          "text": "this week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gimme new stuff",
+          "entity": "recommend"
+        },
+        {
+          "text": " that is cool"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear some "
+        },
+        {
+          "text": "cheerful",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "ecstatic",
+          "entity": "mood"
+        },
+        {
+          "text": " music from "
+        },
+        {
+          "text": "country blues",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear some "
+        },
+        {
+          "text": "energic",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "sawt",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear something by "
+        },
+        {
+          "text": "iveysoila aileenshiloh preciousadelle Evetteleslee Kaneshajuan",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top 90",
+          "entity": "top"
+        },
+        {
+          "text": " tracks of the "
+        },
+        {
+          "text": "retro",
+          "entity": "mood"
+        },
+        {
+          "text": " mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "schlager",
+          "entity": "genre"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to listen to "
+        },
+        {
+          "text": "lively",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear "
+        },
+        {
+          "text": "tuck andress",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " or their "
+        },
+        {
+          "text": "last",
+          "entity": "latest"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "Hiding My Fight",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "rhythmic",
+          "entity": "mood"
+        },
+        {
+          "text": " music from "
+        },
+        {
+          "text": "Josephina jackson",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "top charts twenty",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me some "
+        },
+        {
+          "text": "light hearted",
+          "entity": "mood"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "alline yu foster",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " music from "
+        },
+        {
+          "text": "this month",
+          "entity": "timePeriod"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "old-fashioned",
+          "entity": "mood"
+        },
+        {
+          "text": " music tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "browse through "
+        },
+        {
+          "text": "Garrettfrancesca Pollyrutha Catheryntowanda",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "most popular ninety three",
+          "entity": "top"
+        },
+        {
+          "text": " for me "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "a new breed of peepshow",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "something like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " it"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear a "
+        },
+        {
+          "text": "Glory With A Grudge",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "best ninety two",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to hear "
+        },
+        {
+          "text": "check out the seduction",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "nuanced",
+          "entity": "mood"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music to listen to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to some "
+        },
+        {
+          "text": "symphonic rock",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "erna foster",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "trending 31",
+          "entity": "top"
+        },
+        {
+          "text": " songs for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "hell wont leave me alone",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search for "
+        },
+        {
+          "text": "top 23",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play "
+        },
+        {
+          "text": "anything similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " some "
+        },
+        {
+          "text": "ethereal",
+          "entity": "mood"
+        },
+        {
+          "text": " music "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "top 23",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some songs from  "
+        },
+        {
+          "text": "this month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "trending 84",
+          "entity": "top"
+        },
+        {
+          "text": " music to hear"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear some "
+        },
+        {
+          "text": "maskanda",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "Nelly adele gomez",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play the "
+        },
+        {
+          "text": "guadalupekristofer francispasty",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "extreme",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I wish to listen to "
+        },
+        {
+          "text": "Maximarosario Janajamal",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "improvisational",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "eclectic",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "best 31",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for songs and "
+        },
+        {
+          "text": "play something I never heard!",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "interesting",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "best 97",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I wanna hear new things",
+          "entity": "recommend"
+        },
+        {
+          "text": " from the "
+        },
+        {
+          "text": "top charts 56",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear "
+        },
+        {
+          "text": "some track like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Whispering Intensity",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "meta castillo",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "Nena Shawn robinson",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear songs from the "
+        },
+        {
+          "text": "top charts thirty one",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Journey To The End Of Illusion",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me tracks from the "
+        },
+        {
+          "text": "breakbeat hardcore",
+          "entity": "genre"
+        },
+        {
+          "text": " genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you "
+        },
+        {
+          "text": "recommend me something",
+          "entity": "recommend"
+        },
+        {
+          "text": " to listen to?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Recommend me some new artist",
+          "entity": "recommend"
+        },
+        {
+          "text": " to listen to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top charts 83",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear the songs from "
+        },
+        {
+          "text": "this week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to discover a new artist",
+          "entity": "recommend"
+        },
+        {
+          "text": " that I might like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "anything similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "current movement",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is there "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music by "
+        },
+        {
+          "text": "brannon kippi",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear "
+        },
+        {
+          "text": "anything similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "top 94",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Mariesilvia Novashondra Cruzsamual",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by "
+        },
+        {
+          "text": "fred clayton sanchez",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "most popular 12",
+          "entity": "top"
+        },
+        {
+          "text": " hits"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "trending 34",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Latest",
+          "entity": "latest"
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Marcel Cary hall",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "find me something I never heard before",
+          "entity": "recommend"
+        },
+        {
+          "text": " right now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "land of the 50ft relaxation",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me tracks by "
+        },
+        {
+          "text": "osmond marie",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play something from the "
+        },
+        {
+          "text": "top 40",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "something like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " the music of "
+        },
+        {
+          "text": "100 Dollar Music",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear some "
+        },
+        {
+          "text": "ravana music",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you "
+        },
+        {
+          "text": "recommend me something",
+          "entity": "recommend"
+        },
+        {
+          "text": " to hear"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you play me some "
+        },
+        {
+          "text": "Mariisabelle",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to the "
+        },
+        {
+          "text": "best 37",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top 97",
+          "entity": "top"
+        },
+        {
+          "text": " tracks "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me that "
+        },
+        {
+          "text": "yonggalen willettakeeley",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Get me songs by "
+        },
+        {
+          "text": "champagne woman",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear the "
+        },
+        {
+          "text": "kaitlinclayton",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find music by "
+        },
+        {
+          "text": "bettinacliff melvinmaybelle Efrenthelma",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "new york contentment",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " to make me feel "
+        },
+        {
+          "text": "invigorating",
+          "entity": "mood"
+        },
+        {
+          "text": " or their "
+        },
+        {
+          "text": "Last",
+          "entity": "latest"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "day doris",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music that is "
+        },
+        {
+          "text": "lively",
+          "entity": "mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "Irwin maxine peterson",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "anything similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " what I listened to "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        },
+        {
+          "text": " and by "
+        },
+        {
+          "text": "Larissa smith",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear the "
+        },
+        {
+          "text": "Last release of",
+          "entity": "latest"
+        },
+        {
+          "text": " this artist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me some "
+        },
+        {
+          "text": "don henley",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "top 89",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "recommend me some new artist",
+          "entity": "recommend"
+        },
+        {
+          "text": " who is currently trending."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play "
+        },
+        {
+          "text": "a slight case of composure",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        },
+        {
+          "text": " for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "most popular 22",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Recommend "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " from todays music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "automatic freak",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "best seventeen",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "milan taylor",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to discover a new artist",
+          "entity": "recommend"
+        },
+        {
+          "text": " from the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "make a recommendation",
+          "entity": "recommend"
+        },
+        {
+          "text": " for me?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "top 1",
+          "entity": "top"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks for "
+        },
+        {
+          "text": "this week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me music from the "
+        },
+        {
+          "text": "top 52",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "Loose Blackout",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I am feeling "
+        },
+        {
+          "text": "cold",
+          "entity": "mood"
+        },
+        {
+          "text": " so I want to hear music accordingly"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Education Wont Listen",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "bangsawan",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me "
+        },
+        {
+          "text": "some concerto like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Truckload Of Eroticism",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the current movement",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play "
+        },
+        {
+          "text": "Sofiakyoko Deliciacandy Shantaepeggy",
+          "entity": "playlistName"
+        },
+        {
+          "text": " once more."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "most popular 36",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "top charts 50",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "denver john",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want hear the "
+        },
+        {
+          "text": "silent promise",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to "
+        },
+        {
+          "text": "blindfold marlamelody",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " from the "
+        },
+        {
+          "text": "trending 46",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play my "
+        },
+        {
+          "text": "Rachaelvonnie Marlamelody Nonalorriane",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist or "
+        },
+        {
+          "text": "some album similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " it "
+        },
+        {
+          "text": "morning motivation",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "look for "
+        },
+        {
+          "text": "Last release of",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Broken Sensationalism",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Brooks Lena cox",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search "
+        },
+        {
+          "text": "valerinana maybellejaqueline luthererinn",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist for tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "romantic",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "melodic death metal",
+          "entity": "genre"
+        },
+        {
+          "text": " music "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by "
+        },
+        {
+          "text": "truckload of passion",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by "
+        },
+        {
+          "text": "Hey! Its Lesbianism",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music for my "
+        },
+        {
+          "text": "cold",
+          "entity": "mood"
+        },
+        {
+          "text": " mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "reggaeton",
+          "entity": "genre"
+        },
+        {
+          "text": " for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " songs "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would love to hear "
+        },
+        {
+          "text": "some songs that sounds like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Leonatesha Normalara Jadwigaerlinda",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play something in the "
+        },
+        {
+          "text": "trending 51",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by "
+        },
+        {
+          "text": "Lock Up The Massacre",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is good on the "
+        },
+        {
+          "text": "trending 51",
+          "entity": "top"
+        },
+        {
+          "text": " list"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the track "
+        },
+        {
+          "text": "the new soldier",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me "
+        },
+        {
+          "text": "george jones",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "most popular 61",
+          "entity": "top"
+        },
+        {
+          "text": " to feel more "
+        },
+        {
+          "text": "ethereal",
+          "entity": "mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear some "
+        },
+        {
+          "text": "canto livre",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "Take Your Dirty Hands Off My Bullet",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play some "
+        },
+        {
+          "text": "gary sanchez",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "doo-wop",
+          "entity": "genre"
+        },
+        {
+          "text": " for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear the "
+        },
+        {
+          "text": "Sweet Rocket",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "Recommend me some cool stuff",
+          "entity": "recommend"
+        },
+        {
+          "text": " right now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "latest",
+          "entity": "latest"
+        },
+        {
+          "text": " song by"
+        },
+        {
+          "text": "the current album",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "top charts 28",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to "
+        },
+        {
+          "text": "hill faith",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "Coming Back For My Bible",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top fifty three",
+          "entity": "top"
+        },
+        {
+          "text": " tracks by "
+        },
+        {
+          "text": "Nilanicolette Americaimogene",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Recommend me something",
+          "entity": "recommend"
+        },
+        {
+          "text": " that is nice to "
+        },
+        {
+          "text": "bounce",
+          "entity": "genre"
+        },
+        {
+          "text": " to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play "
+        },
+        {
+          "text": "dream pop",
+          "entity": "genre"
+        },
+        {
+          "text": " music for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "grandiose",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me something nice from the "
+        },
+        {
+          "text": "Extrovert Mojo",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "outlaw country",
+          "entity": "genre"
+        },
+        {
+          "text": " music from "
+        },
+        {
+          "text": "Shanikamadeleine Racheltosha",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "Luisecatherina Dawnamarguerite Dinorahshawanna",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want the "
+        },
+        {
+          "text": "top thirty",
+          "entity": "top"
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "previous songs",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Look for music by "
+        },
+        {
+          "text": "zombies",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "make me discover new stuff",
+          "entity": "recommend"
+        },
+        {
+          "text": " thank you"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "anything like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "golden sunrise",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want "
+        },
+        {
+          "text": "a riff is for life",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some of the "
+        },
+        {
+          "text": "Sick Of The Bomb",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find the "
+        },
+        {
+          "text": "latest",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Spying On Friendship",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "Education Wont Listen",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " for me please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search this album for "
+        },
+        {
+          "text": "some songs similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "grandiose",
+          "entity": "mood"
+        },
+        {
+          "text": " themes"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear music from the "
+        },
+        {
+          "text": "top charts 1",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "vintage",
+          "entity": "mood"
+        },
+        {
+          "text": " music tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the album "
+        },
+        {
+          "text": "Sick Of The Bomb",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I hear the "
+        },
+        {
+          "text": "best 47",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to the "
+        },
+        {
+          "text": "trending fourty four",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me some "
+        },
+        {
+          "text": "straight-ahead jazz",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search tracks for "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "vince gill",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to hear "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to see everything by song that came out "
+        },
+        {
+          "text": "this week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "some symphony similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "Luisecatherina Dawnamarguerite Dinorahshawanna",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "Latest",
+          "entity": "latest"
+        },
+        {
+          "text": " tracks by "
+        },
+        {
+          "text": "kiss my illusion",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me some "
+        },
+        {
+          "text": "Tericaelvia",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "Leonardalenita",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the album "
+        },
+        {
+          "text": "Brooks Lena cox",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want you to "
+        },
+        {
+          "text": "find me something I never heard before",
+          "entity": "recommend"
+        },
+        {
+          "text": " and play it"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search the "
+        },
+        {
+          "text": "margueritajami timothychristina",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist for timba music and "
+        },
+        {
+          "text": "degrees 98",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music to listen to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "top charts 79",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need "
+        },
+        {
+          "text": "something new",
+          "entity": "recommend"
+        },
+        {
+          "text": " to listen to"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find songs that were released "
+        },
+        {
+          "text": "this month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "sad",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "new sound please!",
+          "entity": "recommend"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "Erinnshanda Loganremedios Kimberjohnny",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear some "
+        },
+        {
+          "text": "henley don",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "some track like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " it"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play "
+        },
+        {
+          "text": "last",
+          "entity": "latest"
+        },
+        {
+          "text": " the album by "
+        },
+        {
+          "text": "My Kinda Nightmare",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play some "
+        },
+        {
+          "text": "shopping massacre",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me music from "
+        },
+        {
+          "text": "bennett tony",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music from the "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me "
+        },
+        {
+          "text": "some song like",
+          "entity": "similarTo"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "sad soldier",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to songs by "
+        },
+        {
+          "text": "teresa patti gonzales",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some current movement or some "
+        },
+        {
+          "text": "2 step garage",
+          "entity": "genre"
+        },
+        {
+          "text": " music "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the music released "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play their current album or the single released "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to music from "
+        },
+        {
+          "text": "this month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top charts 83",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear "
+        },
+        {
+          "text": "Helluva Twister",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "Token Soldier",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "most popular 75",
+          "entity": "top"
+        },
+        {
+          "text": " songs for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "old fashioned",
+          "entity": "mood"
+        },
+        {
+          "text": " tracks to play"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want some songs from the "
+        },
+        {
+          "text": "fate in the air",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "look up the album "
+        },
+        {
+          "text": "Sick Of The Bomb",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search the "
+        },
+        {
+          "text": "isiahnoah",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find a "
+        },
+        {
+          "text": "new sound please!",
+          "entity": "recommend"
+        },
+        {
+          "text": " and I want the "
+        },
+        {
+          "text": "best 51",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play my "
+        },
+        {
+          "text": "Drusillaroxane Lasandradelpha Karriemichelle",
+          "entity": "playlistName"
+        },
+        {
+          "text": " playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me music from "
+        },
+        {
+          "text": "nelson sandy",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "Searching For Your Rider",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me the "
+        },
+        {
+          "text": "Latest",
+          "entity": "latest"
+        },
+        {
+          "text": " album from movement group."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "grab your star",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " song that is in the "
+        },
+        {
+          "text": "trending 50",
+          "entity": "top"
+        },
+        {
+          "text": " list"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear music from the "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear some "
+        },
+        {
+          "text": "boz scaggs",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "top charts 21",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for songs recorded "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find songs that debuted "
+        },
+        {
+          "text": "this week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "trending ninety four",
+          "entity": "top"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find tracks by movement from "
+        },
+        {
+          "text": "last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " nikiaquiana biancaverla"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find "
+        },
+        {
+          "text": "music hall",
+          "entity": "genre"
+        },
+        {
+          "text": " music by "
+        },
+        {
+          "text": "a new breed of peepshow",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "some new",
+          "entity": "recommend"
+        },
+        {
+          "text": " music tonight"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play some good "
+        },
+        {
+          "text": "kansas city jazz",
+          "entity": "genre"
+        },
+        {
+          "text": " for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear in the "
+        },
+        {
+          "text": "best eighty eight",
+          "entity": "top"
+        },
+        {
+          "text": " songs the "
+        },
+        {
+          "text": "latest",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "blue harmony",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "best 2",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find some "
+        },
+        {
+          "text": "dance",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear some "
+        },
+        {
+          "text": "david bowie",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to listen to "
+        },
+        {
+          "text": "national socialist black metal",
+          "entity": "genre"
+        },
+        {
+          "text": " from the "
+        },
+        {
+          "text": "best 45",
+          "entity": "top"
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "Extrovert Mojo",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I hear some "
+        },
+        {
+          "text": "anatolian rock",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some songs from "
+        },
+        {
+          "text": "the small faces",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music from "
+        },
+        {
+          "text": "garden savage",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search the "
+        },
+        {
+          "text": "last month",
+          "entity": "timePeriod"
+        },
+        {
+          "text": " for tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you find me the "
+        },
+        {
+          "text": "last release by",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the new soldier",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let me hear the "
+        },
+        {
+          "text": "last release of",
+          "entity": "latest"
+        },
+        {
+          "text": " this artist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the "
+        },
+        {
+          "text": "Speed Will Get You Nowhere",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Which are the "
+        },
+        {
+          "text": "top seventy six",
+          "entity": "top"
+        },
+        {
+          "text": " tracks by "
+        },
+        {
+          "text": "Virginiamarylin",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to listen to "
+        },
+        {
+          "text": "jazz blues",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music by "
+        },
+        {
+          "text": "foreign heaven",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "something that sounds similar to",
+          "entity": "similarTo"
+        },
+        {
+          "text": " this "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "old fashioned",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need some "
+        },
+        {
+          "text": "harmonic",
+          "entity": "mood"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find music that was released "
+        },
+        {
+          "text": "last week",
+          "entity": "timePeriod"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear some "
+        },
+        {
+          "text": "liwa",
+          "entity": "genre"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me some "
+        },
+        {
+          "text": "early music",
+          "entity": "genre"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Music from "
+        },
+        {
+          "text": "the previous movement",
+          "entity": "trackAlbumArtist"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play me the "
+        },
+        {
+          "text": "Latest",
+          "entity": "latest"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "faith on the prowl",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play music for feeling "
+        },
+        {
+          "text": "inventive",
+          "entity": "mood"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lets hear some "
+        },
+        {
+          "text": "post-industrial",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear "
+        },
+        {
+          "text": "the previous symphony",
+          "entity": "trackAlbumArtist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "top charts 46",
+          "entity": "top"
+        },
+        {
+          "text": " tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search playlist for "
+        },
+        {
+          "text": "avant garde",
+          "entity": "genre"
+        },
+        {
+          "text": " music"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Recommend me something",
+          "entity": "recommend"
+        },
+        {
+          "text": " you think I'd like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Find me the "
+        },
+        {
+          "text": "top fourty seven",
+          "entity": "top"
+        },
+        {
+          "text": " songs"
+        }
+      ]
+    }
+  ],
+  "NavigateTracks": [
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "repeat the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please continue "
+        },
+        {
+          "text": "from start",
+          "entity": "action"
+        },
+        {
+          "text": " of playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " the music now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " one track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go ahead and "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song and go to the next one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " this current file"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the track now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " all the tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist order"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this CD for me now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let playback "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " tracks one, five, and six"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the current song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song for me please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this whole playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " one song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets go "
+        },
+        {
+          "text": "back again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "let's listen to the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "hit the "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " button"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "bring up the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " one that's up"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play that "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song again for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " to the track before this one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go ahead and "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would like to "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this here track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "get to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Ok "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the current track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " one again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " one song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play that track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the song "
+        },
+        {
+          "text": "from start",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the album "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go to the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "repeat the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "previous",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this song for a while"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this song for a moment"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " album "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the tracks from number seven"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " track two and start track three"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " by this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " two tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go ahead and "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " this one "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I don't like this song please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " it"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play that album "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go on to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the current track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the track please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go ahead and "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this cd"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Listen to the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " over all these songs"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play that "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song on the CD please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "to "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " to the second track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the current track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this CD from where it left off."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " this song for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to listen to this track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the current song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the ones on the list"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the first three tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track on this disc."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the playback"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " to the next"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " two tracks"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "listen to this one "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the current track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " all tracks shuffled"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to hear the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " ahead a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track I hate it"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " ahead to the next in line"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Ok re "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " through all these"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " to the next one in line"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go to the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song on this CD"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this CD for me please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "previous",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the whole thing"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want you to "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the whole song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " through these songs "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the current song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song on the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's hear the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this song, I love it."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "return to the beginning of the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track and start again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this album "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the song."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "last",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "previous",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " ahead 3 times"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song this time"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "let's "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the song "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "bring up the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the current song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " this whole list"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the track at the beginning"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the cd"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " one track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "turn the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song over"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to play the one that is "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets see if we can "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " one "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " the playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the current song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " this album please "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go to "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "back",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "proceed to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go to the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "start the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " song over"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "you need to "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " this CD for me now."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Go to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song on this playlist"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can we "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the album"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this track for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Listen to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "take me to the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play",
+          "entity": "action"
+        },
+        {
+          "text": " the song now"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " the song out there"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the current track please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " after the end of track five"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " to the next one in line"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Play the "
+        },
+        {
+          "text": "last",
+          "entity": "action"
+        },
+        {
+          "text": " track back"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this song right here."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play that song "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " this cd"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "hit "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " when you can"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a song "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "lets hear it "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " to the song before this one"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let's hear the song "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you "
+        },
+        {
+          "text": "pause",
+          "entity": "action"
+        },
+        {
+          "text": " the song"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "shuffle",
+          "entity": "action"
+        },
+        {
+          "text": " tracks for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "stop",
+          "entity": "action"
+        },
+        {
+          "text": " this song please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "next",
+          "entity": "action"
+        },
+        {
+          "text": " track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " the current track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this track please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to here the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song again"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "play the "
+        },
+        {
+          "text": "previous",
+          "entity": "action"
+        },
+        {
+          "text": " song for me"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "set this cd to "
+        },
+        {
+          "text": "run",
+          "entity": "action"
+        },
+        {
+          "text": " please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you play the track "
+        },
+        {
+          "text": "again",
+          "entity": "action"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please "
+        },
+        {
+          "text": "skip",
+          "entity": "action"
+        },
+        {
+          "text": " this song, it's bad."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please "
+        },
+        {
+          "text": "restart",
+          "entity": "action"
+        },
+        {
+          "text": " the cd"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you go "
+        },
+        {
+          "text": "back",
+          "entity": "action"
+        },
+        {
+          "text": " a track"
+        }
+      ]
+    }
+  ],
+  "GetWeather": [
+    {
+      "data": [
+        {
+          "text": "How is the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast looking like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "My friend wants to know the forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell the forecast if you know it."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather is in the forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the current weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the temperature?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it snow anytime soon?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me what the weather conditions are"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it going to snow?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's the weather like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "When will it rain again?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lemme know what the weather is please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "current weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gimme the weather please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the current weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the weather there"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me forecast of the weather."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's it gonna be like outside"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather going to be like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the latest weather news?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the current weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What are they saying about the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell the weather please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the weather."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What type of weather is in the forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it raining now?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please give my friend the weather.  Thanks!"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell the forecast to me."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Should I expect any particular sort of weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you please let me know what the weather forecast is"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather if you don't mind."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather looking like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is today's weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather today?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to know when it will snow again?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to see the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "When is it going to rain?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the weather"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is the weather ok?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather should we expect?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it warm outside?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather like right now?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather forecast looking?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is this rainy weather going to last?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather forecast please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather should I expect?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me a weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Weather like outside"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I get the weather please?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell the forecast please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell the weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather gonna be like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How are the weather conditions?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "hows the weather"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like outside?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats it going to be like if its not cold"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's it like outside?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What sort of weather is korea expecting?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Should we expect a certain type of weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather should I pack for?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather outside?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather from you."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it going to rain?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lemme hear the forecast please"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "My friend wants to know the forecast please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather forecast looking?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gimme the forecast please.  Thank you."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather supposed to be like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to see the weather please."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the full weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it ever going to warm up outside?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me that forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is there a thunderstorm coming?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would like to see the weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Do you think it will rain?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Are you expecting snow?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast please?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it be okay to walk or will I get wet"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather there?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me if I will be sad regarding weather"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather supposed to be like?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you tell me the weather?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me what the weather is"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I get a snow update?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it cold out there"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather forecast looking?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me details about the weather."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lemme know what the forecast is like."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'm curious what the weather is like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to see what the weather will be like."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to view the weather forecast."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Forecast please, thanks!"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell what the forecast is."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me how the weather is"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would like to know how the weather is"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me the weather forecast"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you tell me what the weather is like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather today?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the temp?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it going to frost"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the current weather forecast?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to know what the weather is like"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'm looking for weather "
+        },
+        {
+          "text": "in the next twenty minutes",
+          "entity": "timeRange"
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "chesapeake",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "for our trip",
+          "entity": "timeRange"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "bhutan",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me a weather forecast "
+        },
+        {
+          "text": "for your bachelorette party",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "close to St. Petersburg",
+          "entity": "location"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather "
+        },
+        {
+          "text": "around us",
+          "entity": "location"
+        },
+        {
+          "text": " supposed to be like "
+        },
+        {
+          "text": "at 3:45pm",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at noon",
+          "entity": "timeRange"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "finland",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at two o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "Union Square Evelyn S Playground",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me the typical weather for "
+        },
+        {
+          "text": "springtime",
+          "entity": "timeRange"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Boston",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather "
+        },
+        {
+          "text": "close to Akron",
+          "entity": "location"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "when we we have dinner with my significant other",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me the weather "
+        },
+        {
+          "text": "next to fort worth, Oklahoma",
+          "entity": "location"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in the next twenty-four hour",
+          "entity": "timeRange"
+        },
+        {
+          "text": " period."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to know the weather expected "
+        },
+        {
+          "text": "at four o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in the area of lexington",
+          "entity": "location"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "around the time of our business trip",
+          "entity": "timeRange"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "toledo",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will I get rained on if I go "
+        },
+        {
+          "text": "around the corner",
+          "entity": "location"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in the next fifteen minutes",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "When I get to "
+        },
+        {
+          "text": "your secondary residence",
+          "entity": "location"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at three o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": ", what temperature will it be?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at 9:15AM",
+          "entity": "timeRange"
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Louisville",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to hear the weather "
+        },
+        {
+          "text": "on the day of my wife's trip",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather going to be "
+        },
+        {
+          "text": "during the next five minutes",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Wht's the weather going to be "
+        },
+        {
+          "text": "at three o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather for "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it going to be raining "
+        },
+        {
+          "text": "at two o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "Martin Luther King Day",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "Martin Luther King Day",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the weather "
+        },
+        {
+          "text": "for tea time",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "is it' going to rain "
+        },
+        {
+          "text": "at 8 o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather forecast "
+        },
+        {
+          "text": "at 3:45 am",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me the weather "
+        },
+        {
+          "text": "for dinner",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like for "
+        },
+        {
+          "text": "Ramadan",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "is it going to rain "
+        },
+        {
+          "text": "around the time of Gena Christensen's wedding",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at 7:30 am",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather going to be "
+        },
+        {
+          "text": "on the twenty-fifth of may",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Forecast "
+        },
+        {
+          "text": "at five o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": " please, thank you."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at ten o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather going to be "
+        },
+        {
+          "text": "at 2:45pm",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me the weather "
+        },
+        {
+          "text": "at 8 o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "When will it snow "
+        },
+        {
+          "text": "in winter",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it rain "
+        },
+        {
+          "text": "at 11:00 pm",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know what it'll be like "
+        },
+        {
+          "text": "for tea time",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is the weather going to be cold "
+        },
+        {
+          "text": "at 2:45",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's the weather gonna be "
+        },
+        {
+          "text": "at 11:45 AM",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather going to be like "
+        },
+        {
+          "text": "the night of New Year's Day",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "during our vacation",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "at the time of Jerry's party",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I get what the weather is "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather forecast looking like "
+        },
+        {
+          "text": "for my trip",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at six o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What was the weather forecast "
+        },
+        {
+          "text": "during Thomas' vacation",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather "
+        },
+        {
+          "text": "1 day from now",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me what the weather will be like for "
+        },
+        {
+          "text": "President's Day",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'd like to know the weather "
+        },
+        {
+          "text": "at twelve o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How will the weather be "
+        },
+        {
+          "text": "for your bachelorette party",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "is there flooding "
+        },
+        {
+          "text": "in the next week",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will there be nice weather "
+        },
+        {
+          "text": "for your bachelorette party",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's it gonna be like "
+        },
+        {
+          "text": "at noon",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather for "
+        },
+        {
+          "text": "Martin Luther King Day",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Looking for a forecast "
+        },
+        {
+          "text": "for lunch",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How will the weather be "
+        },
+        {
+          "text": "on the day I go see Leanne Phelps",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can I expect nice weather "
+        },
+        {
+          "text": "for tea time",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "at 12:30am",
+          "entity": "timeRange"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "at 12:30am",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like on "
+        },
+        {
+          "text": "New Year's",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How will the weather be on "
+        },
+        {
+          "text": "New Year's Day",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Lemme hear the weather for "
+        },
+        {
+          "text": "Martin Luther King Day",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Should we expect inclement weather "
+        },
+        {
+          "text": "during his dinner",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the forecast "
+        },
+        {
+          "text": "at 11:15 pm",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want to know what the weather will be like "
+        },
+        {
+          "text": "for tomorrow's lunch",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather supposed to be "
+        },
+        {
+          "text": "at 4 o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Can you tell me how the weather will be "
+        },
+        {
+          "text": "at noon",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "for my dinner",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it snow "
+        },
+        {
+          "text": "today",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it snow "
+        },
+        {
+          "text": "at three pm",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want the weather "
+        },
+        {
+          "text": "at eight o'clock",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather looking like "
+        },
+        {
+          "text": "while my daughter's drinks",
+          "entity": "timeRange"
+        },
+        {
+          "text": " vodka?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather will we have "
+        },
+        {
+          "text": "at 9 o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather forecast going to be "
+        },
+        {
+          "text": "at 1:30",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me weather status "
+        },
+        {
+          "text": "during the next hour",
+          "entity": "timeRange"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "the night of richard thompson' weekend",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather going to be like "
+        },
+        {
+          "text": "at 4 o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me the forecast "
+        },
+        {
+          "text": "during Ramadan",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather going to be like "
+        },
+        {
+          "text": "at 2:30 AM",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How will the weather be "
+        },
+        {
+          "text": "at 12 o'clock",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather on "
+        },
+        {
+          "text": "Memorial Day",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be "
+        },
+        {
+          "text": "while grand pa's event",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast going to be "
+        },
+        {
+          "text": "in the next week",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What will the weather be like "
+        },
+        {
+          "text": "at 10:15 AM",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "on our business trip",
+          "entity": "timeRange"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Will it be nice enough for me to go out "
+        },
+        {
+          "text": "at lunch time",
+          "entity": "timeRange"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "Santa Ana",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the weather for "
+        },
+        {
+          "text": "finland",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather in "
+        },
+        {
+          "text": "korea",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather forecast in "
+        },
+        {
+          "text": "niue",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "los angeles",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather going to be like "
+        },
+        {
+          "text": "in the area of Lincoln, New York",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the forecast for "
+        },
+        {
+          "text": "near Fresno, TX",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather in "
+        },
+        {
+          "text": "Madison",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "In "
+        },
+        {
+          "text": "Winston-Salem",
+          "entity": "location"
+        },
+        {
+          "text": ", what kind of weather are they expecting?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "micronesia",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather in "
+        },
+        {
+          "text": "guadeloupe",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather on "
+        },
+        {
+          "text": "the campus",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather "
+        },
+        {
+          "text": "in the area of Orlando",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "When I get to "
+        },
+        {
+          "text": "minneapolis",
+          "entity": "location"
+        },
+        {
+          "text": ", will there be any chance of snow?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Should I expect it to be cold "
+        },
+        {
+          "text": "close to Houston, NE",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "let me know if it'll rain in "
+        },
+        {
+          "text": "Jersey City",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Tell me the weather "
+        },
+        {
+          "text": "on my way to California",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather at "
+        },
+        {
+          "text": "norfolk, NE",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "around the corner",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather like "
+        },
+        {
+          "text": "in the area of Tucson",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the weather at "
+        },
+        {
+          "text": "maria garcia's secondary residence",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Hows the weather forecast "
+        },
+        {
+          "text": "in the area of Gilbert, Michigan",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "bay ridge",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gimme the weather for "
+        },
+        {
+          "text": "Houston, California",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather "
+        },
+        {
+          "text": "close from pittsburgh, ME",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "lexington",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like "
+        },
+        {
+          "text": "next to St. Petersburg",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What kind of weather are they getting in "
+        },
+        {
+          "text": "Raleigh",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Show me the weather "
+        },
+        {
+          "text": "within 4 kms",
+          "entity": "location"
+        },
+        {
+          "text": " of here"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "albuquerque",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's it like outside in "
+        },
+        {
+          "text": "micronesia",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it sunny in "
+        },
+        {
+          "text": "Detroit",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather like in "
+        },
+        {
+          "text": "Mariajames smith' neighborhood",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Is it warm in "
+        },
+        {
+          "text": "montenegro",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Let me know the weather for "
+        },
+        {
+          "text": "indianapolis",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I want the temperature for "
+        },
+        {
+          "text": "phoenix",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather doing in "
+        },
+        {
+          "text": "chad",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "close from memphis",
+          "entity": "location"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather in "
+        },
+        {
+          "text": "garland",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gimme the forecast for "
+        },
+        {
+          "text": "Oklahoma City, NH",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the weather for "
+        },
+        {
+          "text": "rutherford station",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the weather in  "
+        },
+        {
+          "text": "new orleans",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How's the weather in "
+        },
+        {
+          "text": "las vegas",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "in the neighborhood",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "near Cleveland, Washington",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please give me weather of "
+        },
+        {
+          "text": "close from atlanta",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the forecast looking for "
+        },
+        {
+          "text": "birmingham, GU",
+          "entity": "location"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the weather around "
+        },
+        {
+          "text": "our favourite moving company near your university",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please advise what the weather is like in "
+        },
+        {
+          "text": "italy",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the temperature "
+        },
+        {
+          "text": "close to Columbus, New Mexico",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is the weather in "
+        },
+        {
+          "text": "afghanistan",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need the forecast for "
+        },
+        {
+          "text": "guatemala",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast "
+        },
+        {
+          "text": "near Omaha, Federated States Of Micronesia",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I need to know the weather "
+        },
+        {
+          "text": "in the area of Nashville, Pennsylvania",
+          "entity": "location"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the weather forecast for "
+        },
+        {
+          "text": "her neighborhood",
+          "entity": "location"
+        }
+      ]
+    }
+  ]
+}
