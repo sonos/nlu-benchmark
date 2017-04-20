@@ -1,17 +1,14 @@
 # Natural Language Understanding benchmark
 
-This file contains the results of the benchmark we ran on March 16th 2017 to compare natural language understanding services offering custom solutions (a naive model based on regular expressions, Lastmile's RASA NLU, Recast.ai, and Snips' Pcfg parser) for three intents. This benchmark and its results will be described in more details in a soon to be released blog post.
+This file contains the results of the benchmark we ran on March 16th 2017 to compare natural language understanding services offering custom solutions (a naive model based on regular expressions, Lastmile's RASA NLU with MITIE and SpaCy backends, Recast.ai, and Snips) for three intents. This benchmark and its results will be described in more details in a soon to be released blog post.
 
 We focused on three types of `intents`:
-* NavigateTracks with one `slot` that is neither built-in nor gazetteer-based,
-* GetWeather with two `slots` that are built-in,
-* PlayMusic with nine `slots` among which two are gazetteer-based.
+* NavigateTracks with one `slot` (action) that is neither built-in nor gazetteer-based,
+* GetWeather with two `slots` (location and timeRange) that are built-in like.
 
 400 queries have been generated for each intent with crowdsourcing methods, 300 are for training and 100 for validation. The data is structured by `intent` in `training_set.json` and `validate_set.json`. 
 
-The results of the benchmark provided in `benchmark_results.json` are structured by `type` (execution time, intent classification precision, and token classification precision and recall), then by `training size` (number of queries selected from the training set for each intent, from `n=5` to `n=50`), and finally by `model`.
-
-More specifically, `execution_time` displays the total time elapsed in seconds to `fit` the model and the median `predict` time to parse one query. `intent_classification` prodivides for each `intent` the classification `precision`. `token_classification` includes for each `intent` and for each `slot` the classification `precision` and `recall`. 
+The results of the benchmark are displayed on the different figures. More specifically, `execution_time` displays the total time elapsed in seconds to `fit` the model and the median `predict` time to parse one query (it does take into account the duration of API calls for API.AI and Recast.ai). `intent_classification` prodivides for each `intent` the classification `precision`. `token_classification` includes for each `intent` and for each `slot` the classification `precision` and `recall`. 
 Each value is displayed 5 times, corresponding to the number of random samples selected for each training size. 
 
 ### Disclaimer
