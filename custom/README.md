@@ -8,7 +8,7 @@ We focused on three types of `intents`:
 
 400 queries have been generated for each intent with crowdsourcing methods, 300 are for training and 100 for validation. The data is structured by `intent` in `training_set.json` and `validate_set.json`. 
 
-The results of the benchmark are displayed on the different figures. More specifically, `execution_time` displays the total time elapsed in seconds to `fit` the model and the median `predict` time to parse one query (it does take into account the duration of API calls for API.AI and Recast.ai). `intent_classification` prodivides for each `intent` the classification `precision`. `token_classification` includes for each `intent` and for each `slot` the classification `precision` and `recall`. 
+The results of the benchmark are displayed on the different figures. More specifically, `execution_time` displays the total time elapsed in seconds to `fit` the model and the median `predict` time to parse one query (it does take into account the duration of API calls for API.AI and Recast.ai). `intent_classification` prodivides for each `intent` the classification `precision` and `recall`. `token_extraction` includes for each `intent` and for each `slot` the classification `precision` and `recall`. 
 Each value is displayed 5 times, corresponding to the number of random samples selected for each training size. 
 
 ### Disclaimer
