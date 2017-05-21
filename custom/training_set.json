@@ -7624,5 +7624,3897 @@
         }
       ]
     }
+  ],
+  "GetDefinition": [
+    {
+      "data": [
+        {
+          "text": "what's the "
+        },
+        {
+          "text": "rathaus in Frankfurt",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define the act of "
+        },
+        {
+          "text": "being angry",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I'm wondering, what is "
+        },
+        {
+          "text": "machine learning",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "conversation",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you please define the "
+        },
+        {
+          "text": "endpoint of a plane",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me the meaning of the word "
+        },
+        {
+          "text": "architecture",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does "
+        },
+        {
+          "text": "by luck",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "game",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "die",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is \""
+        },
+        {
+          "text": "alternative",
+          "entity": "phrase"
+        },
+        {
+          "text": "\"?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition "
+        },
+        {
+          "text": "design",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "psychotropic",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "agent orange",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": ":-) What does "
+        },
+        {
+          "text": "model",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "diversity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "complexity",
+          "entity": "phrase"
+        },
+        {
+          "text": " means in programmation?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define "
+        },
+        {
+          "text": "exclusivity",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of "
+        },
+        {
+          "text": "pediatrician",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please list the definitions of "
+        },
+        {
+          "text": "women",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "war",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of a \""
+        },
+        {
+          "text": "grown-up man",
+          "entity": "phrase"
+        },
+        {
+          "text": "'"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats the meaning of "
+        },
+        {
+          "text": "karma",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "being happy",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what exactly is "
+        },
+        {
+          "text": "radiation",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is "
+        },
+        {
+          "text": "thalassemia",
+          "entity": "phrase"
+        },
+        {
+          "text": " defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "humidity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does "
+        },
+        {
+          "text": "caliente",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean, in English?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define the "
+        },
+        {
+          "text": "Pheonix Club",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "oh! And what does "
+        },
+        {
+          "text": "work",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "okay... what does "
+        },
+        {
+          "text": "humidity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does the name '"
+        },
+        {
+          "text": "Alexandra",
+          "entity": "phrase"
+        },
+        {
+          "text": "' mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define "
+        },
+        {
+          "text": "prescience",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does "
+        },
+        {
+          "text": "chrome",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Could you please define "
+        },
+        {
+          "text": "zero working capital",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of "
+        },
+        {
+          "text": "sand",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "dying",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "serve",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the word "
+        },
+        {
+          "text": "savage",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "how can we define an "
+        },
+        {
+          "text": "economic breakdown",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define "
+        },
+        {
+          "text": "context in communication",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "game",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "how can we define a "
+        },
+        {
+          "text": "murder",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats the meaning of "
+        },
+        {
+          "text": "portability in software development",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "airplane",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of "
+        },
+        {
+          "text": "painting",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what do you mean by "
+        },
+        {
+          "text": "filmography",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "bot",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of the word: "
+        },
+        {
+          "text": "potato",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me what is "
+        },
+        {
+          "text": "GECO",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's a "
+        },
+        {
+          "text": "dab",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define a "
+        },
+        {
+          "text": "character in a movie",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "ageless",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "haha what does "
+        },
+        {
+          "text": "job",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean for you"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "hallucinating",
+          "entity": "phrase"
+        },
+        {
+          "text": " means to you?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's the meaning of the "
+        },
+        {
+          "text": "zoological term ruminant",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definitions "
+        },
+        {
+          "text": "illness",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of "
+        },
+        {
+          "text": "cookies in the internet",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "intention",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the word "
+        },
+        {
+          "text": "humble",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "hmm... i see. What does "
+        },
+        {
+          "text": "humidity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of the name "
+        },
+        {
+          "text": "Thibault",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of \""
+        },
+        {
+          "text": "being busy as a bee",
+          "entity": "phrase"
+        },
+        {
+          "text": "\"?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "mass",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of the word '"
+        },
+        {
+          "text": "table",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does the name "
+        },
+        {
+          "text": "Billie",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "\u8eca",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does mean "
+        },
+        {
+          "text": "python",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "world",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of "
+        },
+        {
+          "text": "book",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is "
+        },
+        {
+          "text": "salt",
+          "entity": "phrase"
+        },
+        {
+          "text": " defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what do you mean by "
+        },
+        {
+          "text": "job",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is an "
+        },
+        {
+          "text": "object",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "elevate",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of an "
+        },
+        {
+          "text": "infant",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "computer",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "by the way, what is an "
+        },
+        {
+          "text": "algorithm",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define the meaning of "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "playstation",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "For what stands "
+        },
+        {
+          "text": "EDF",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "possible",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of "
+        },
+        {
+          "text": "genuine",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "how can you define a "
+        },
+        {
+          "text": "mistake",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's a "
+        },
+        {
+          "text": "fact",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "cloud",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "oh! And what does "
+        },
+        {
+          "text": "dampness",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "ethics",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "logistic regression",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "petty",
+          "entity": "phrase"
+        },
+        {
+          "text": " define"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Great! what does "
+        },
+        {
+          "text": "pseudo",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "saute",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "equity",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "facebook",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "oh, what does "
+        },
+        {
+          "text": "recursive",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define this phrase: '"
+        },
+        {
+          "text": "opening line",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of a "
+        },
+        {
+          "text": "metaphor",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats the meaning of "
+        },
+        {
+          "text": "versace",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "boat",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "umm... what does "
+        },
+        {
+          "text": "problem",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "robot",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Would you define the term "
+        },
+        {
+          "text": "technology",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the term "
+        },
+        {
+          "text": "career",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "question",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "EDF",
+          "entity": "phrase"
+        },
+        {
+          "text": " stands for what?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the name for "
+        },
+        {
+          "text": "fear of abandonment",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of "
+        },
+        {
+          "text": "gold mining",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of "
+        },
+        {
+          "text": "swag",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "luna",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition "
+        },
+        {
+          "text": "liver enzymes",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define '"
+        },
+        {
+          "text": "serving",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "historic",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of the "
+        },
+        {
+          "text": "bible",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "AHAHA what does "
+        },
+        {
+          "text": "keyboard",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean for you"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "you",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the term "
+        },
+        {
+          "text": "plum",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what are the "
+        },
+        {
+          "text": "first 5 amendements",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "being sure",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "extended definition",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "robot",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of a "
+        },
+        {
+          "text": "sociopath",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "binomial coefficients",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "God",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "system",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "smartphone",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is "
+        },
+        {
+          "text": "infamous",
+          "entity": "phrase"
+        },
+        {
+          "text": " defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what are "
+        },
+        {
+          "text": "pears",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of the "
+        },
+        {
+          "text": "coral reefs",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define \""
+        },
+        {
+          "text": "rock group",
+          "entity": "phrase"
+        },
+        {
+          "text": "\"?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "startup",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "liability",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What's the meaning of the "
+        },
+        {
+          "text": "Latin battle cry: Ad arma, ad arma",
+          "entity": "phrase"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define "
+        },
+        {
+          "text": "marching",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "tell me what does "
+        },
+        {
+          "text": "arching",
+          "entity": "phrase"
+        },
+        {
+          "text": " means."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of "
+        },
+        {
+          "text": "table",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the definition of "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Hazmat",
+          "entity": "phrase"
+        },
+        {
+          "text": " stands for what?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What are "
+        },
+        {
+          "text": "hook worms",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Would you please define the "
+        },
+        {
+          "text": "american dream",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "death",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "yogurt",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of a "
+        },
+        {
+          "text": "friend",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "zuckerberg",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the term "
+        },
+        {
+          "text": "communication",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats "
+        },
+        {
+          "text": "prescience",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "being a slowpoke",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "cesar",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "robot",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "fear of oneself",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats the meaning of "
+        },
+        {
+          "text": "null",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definitions "
+        },
+        {
+          "text": "computer",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "slow",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "how can we define an "
+        },
+        {
+          "text": "elephant",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "petty",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How can you define "
+        },
+        {
+          "text": "time",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "nice! What does "
+        },
+        {
+          "text": "humidity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of a "
+        },
+        {
+          "text": "seagull",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define "
+        },
+        {
+          "text": "chief executive officier",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what are "
+        },
+        {
+          "text": "designs",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's the meaning of the name "
+        },
+        {
+          "text": "Tatiana",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "antidisestablishmentarianism",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "videogame",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "i want you to define "
+        },
+        {
+          "text": "system",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's a "
+        },
+        {
+          "text": "robot",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "american dream",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the meaning of "
+        },
+        {
+          "text": "thalassemia",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of an "
+        },
+        {
+          "text": "album",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I see, but what does "
+        },
+        {
+          "text": "RAM",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Oooh, and what does "
+        },
+        {
+          "text": "recursivity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats the meaning of "
+        },
+        {
+          "text": "tornado",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define the word "
+        },
+        {
+          "text": "paranoiac",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the '"
+        },
+        {
+          "text": "cognitive era",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "acupuncture",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "Adam",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "job",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean for you"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define what is "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is a "
+        },
+        {
+          "text": "bar",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "\u6c7d\u8eca",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the "
+        },
+        {
+          "text": "principles of Valdez",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of "
+        },
+        {
+          "text": "Jesus",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Could you please define "
+        },
+        {
+          "text": "jawline",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "car",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what's the meaning of "
+        },
+        {
+          "text": "baz",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "weight",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean for you"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "procedure",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "dice",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the definition of an "
+        },
+        {
+          "text": "alien",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define "
+        },
+        {
+          "text": "terrorism",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "mu",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "Monophobia",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "intent",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is an "
+        },
+        {
+          "text": "ice cream",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "mock",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "diversity",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is "
+        },
+        {
+          "text": "umbrella",
+          "entity": "phrase"
+        },
+        {
+          "text": " defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of "
+        },
+        {
+          "text": "\u4e09\u5fc3\u4e8c\u610f",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of the "
+        },
+        {
+          "text": "electoral college",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats the "
+        },
+        {
+          "text": "sense of patriotism",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the word "
+        },
+        {
+          "text": "vetting",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does "
+        },
+        {
+          "text": "open",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define '"
+        },
+        {
+          "text": "opera",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Would you define the concept of development"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what do you mean by "
+        },
+        {
+          "text": "mailman",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "E Pluribus Unum",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" on the penny mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "robot",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition "
+        },
+        {
+          "text": "sleep",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of "
+        },
+        {
+          "text": "boxcars",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "temperature",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "sky",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "Sinn Fein",
+          "entity": "phrase"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What else has the "
+        },
+        {
+          "text": "swastika",
+          "entity": "phrase"
+        },
+        {
+          "text": " stood for?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "concept",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Definition of "
+        },
+        {
+          "text": "singular",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of a "
+        },
+        {
+          "text": "feminist",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does the name \""
+        },
+        {
+          "text": "Sheri",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "shore",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is "
+        },
+        {
+          "text": "paranoia",
+          "entity": "phrase"
+        },
+        {
+          "text": " defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of a "
+        },
+        {
+          "text": "stone",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is an "
+        },
+        {
+          "text": "anaconda",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Please tell me definition of "
+        },
+        {
+          "text": "cerisier",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of "
+        },
+        {
+          "text": "bae",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the meaning of \""
+        },
+        {
+          "text": "subaru",
+          "entity": "phrase"
+        },
+        {
+          "text": "\"?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "meta",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats the meaning of "
+        },
+        {
+          "text": "naive",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "it",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "search definition of \""
+        },
+        {
+          "text": "download",
+          "entity": "phrase"
+        },
+        {
+          "text": "\""
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of "
+        },
+        {
+          "text": "supercalculator",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "how can you define "
+        },
+        {
+          "text": "rust",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition "
+        },
+        {
+          "text": "window",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "plural",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "old",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "i don't know what a "
+        },
+        {
+          "text": "geico",
+          "entity": "phrase"
+        },
+        {
+          "text": " is"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of a "
+        },
+        {
+          "text": "phrase",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of this word: "
+        },
+        {
+          "text": "telekinesis",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is '"
+        },
+        {
+          "text": "clear",
+          "entity": "phrase"
+        },
+        {
+          "text": "'?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "and what is "
+        },
+        {
+          "text": "natural language",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "recursive",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "greatest",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give me the definition of a "
+        },
+        {
+          "text": "narcissist",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What are "
+        },
+        {
+          "text": "geckos",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "but what does "
+        },
+        {
+          "text": "rationalisation",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the term "
+        },
+        {
+          "text": "PSTD",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "limbo",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats meant with the word "
+        },
+        {
+          "text": "random",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define "
+        },
+        {
+          "text": "functionality",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "statistics",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "example",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "appendix",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give me the definition of "
+        },
+        {
+          "text": "endangered species",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of "
+        },
+        {
+          "text": "COBOL",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "kill",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is the meaning of "
+        },
+        {
+          "text": "caliente, in English",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "a hoe",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "schyzophrenia",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "List the definitions of "
+        },
+        {
+          "text": "human",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "And what does '"
+        },
+        {
+          "text": "work",
+          "entity": "phrase"
+        },
+        {
+          "text": "' mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "love",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "yogurt",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "video game",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "and what does "
+        },
+        {
+          "text": "criminal",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "please define "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "bold",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "welcome",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Whats a "
+        },
+        {
+          "text": "zebra",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "word",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I don't understand what "
+        },
+        {
+          "text": "\u8cb4",
+          "entity": "phrase"
+        },
+        {
+          "text": " means"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "live",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Could you please define a "
+        },
+        {
+          "text": "word",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "Apple",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "boob",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of "
+        },
+        {
+          "text": "manifestation",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats meant with the term "
+        },
+        {
+          "text": "medical",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is meant by the term \""
+        },
+        {
+          "text": "yield to maturity",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" in reference to bonds?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you define this word: "
+        },
+        {
+          "text": "movie",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats meant with the word "
+        },
+        {
+          "text": "autophobia",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "computer",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of the word "
+        },
+        {
+          "text": "alien",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "love",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "synonym",
+          "entity": "phrase"
+        },
+        {
+          "text": " definition"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "Philebus-like",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what does "
+        },
+        {
+          "text": "serendipity",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "so, what does "
+        },
+        {
+          "text": "caesar",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition of the word "
+        },
+        {
+          "text": "glory",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": ":) What does "
+        },
+        {
+          "text": "serve",
+          "entity": "phrase"
+        },
+        {
+          "text": " mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Define "
+        },
+        {
+          "text": "Spumante",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "find me the definition of the "
+        },
+        {
+          "text": "atomic weight",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "do you know what "
+        },
+        {
+          "text": "Caesar",
+          "entity": "phrase"
+        },
+        {
+          "text": " means?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "whats the meaning of "
+        },
+        {
+          "text": "mean in maths",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definitions "
+        },
+        {
+          "text": "madness",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "can you give me the definition of a "
+        },
+        {
+          "text": "suburban city",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "random",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "How is '"
+        },
+        {
+          "text": "tornado",
+          "entity": "phrase"
+        },
+        {
+          "text": "' defined?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is a "
+        },
+        {
+          "text": "die",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "what is the meaning of "
+        },
+        {
+          "text": "life",
+          "entity": "phrase"
+        },
+        {
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "What does \""
+        },
+        {
+          "text": "Janelle",
+          "entity": "phrase"
+        },
+        {
+          "text": "\" mean?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "could you define \""
+        },
+        {
+          "text": "copy",
+          "entity": "phrase"
+        },
+        {
+          "text": "\"?"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "define "
+        },
+        {
+          "text": "fleek",
+          "entity": "phrase"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "definition "
+        },
+        {
+          "text": "latent function",
+          "entity": "phrase"
+        }
+      ]
+    }
   ]
 }
