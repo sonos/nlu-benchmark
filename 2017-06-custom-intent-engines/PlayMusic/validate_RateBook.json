@@ -1,0 +1,3069 @@
+{
+  "RateBook": [
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "A Twist in the Tale",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The children of Niobe",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Halo: Ghosts of Onyx",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " a score of "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "The Spirit Ring",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "36 Children",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The Sneetches and Other Stories",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "three",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The Mystery of the Tolling Bell",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Joe Magarac and His USA Citizen Papers",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The Guilty",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give the "
+        },
+        {
+          "text": "Catedral",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Reminiscences of the Anti-Japanese Guerillas",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " deserves "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " for a rating."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Small Screen, Big Picture",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " rating."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Gods and Pawns",
+          "entity": "object_name"
+        },
+        {
+          "text": " should get a "
+        },
+        {
+          "text": "three",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "The Atmospheric Railway",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "Black Boy",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " star"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "mark "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " a score of "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "The Giant Devil Dingo",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Monthly Index of Medical Specialities",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " rating."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "3",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "essay",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "A Brief Stop on the Road from Auschwitz",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "Hate That Cat",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give my "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give a rating of "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Juneteenth",
+          "entity": "object_name"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "Ruth",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "The Sea of Trolls",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give "
+        },
+        {
+          "text": "The Zenith Angle",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Rhialto the Marvellous",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "Personal Demons",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Who Will Cry When You Die",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The 8-Week Cholesterol Cure",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "three",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "3",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "The Lives of John Lennon",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "The American Scene",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Summer of the Swans",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " a rating of "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "The Person and the Common Good",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give a "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " rating to "
+        },
+        {
+          "text": "A World Apart",
+          "entity": "object_name"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Wilco: Learning How to Die",
+          "entity": "object_name"
+        },
+        {
+          "text": " a rating of "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "saga",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "The Gift: Imagination and the Erotic Life of Property",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "Neverwhere",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "In the Company of Cheerful Ladies",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "zero",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " start to the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " rating."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "essay",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": ", give "
+        },
+        {
+          "text": "Rivers of Babylon",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Expressive Processing",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "The Ghost House",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "Know Ye Not Agincourt",
+          "entity": "object_name"
+        },
+        {
+          "text": "? "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "I would rate "
+        },
+        {
+          "text": "Theft: A Love Story",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "The Further Adventures of The Joker",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " rating to "
+        },
+        {
+          "text": "In the Heart of the Country",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " rating to the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "give the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "chronicle",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five",
+          "entity": "rating_value"
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "Cotton Comes to Harlem",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "2",
+          "entity": "rating_value"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "album",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate "
+        },
+        {
+          "text": "The Adventures of Augie March",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "Soul Music",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Hindu Temples: What Happened to Them",
+          "entity": "object_name"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "novel",
+          "entity": "object_type"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "1",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "textbook",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "0",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "The Crystal Snare",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "saga",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "two",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "Wilco: Learning How to Die",
+          "entity": "object_name"
+        },
+        {
+          "text": " a rating of "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate "
+        },
+        {
+          "text": "this",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "book",
+          "entity": "object_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "3",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "rate the "
+        },
+        {
+          "text": "Three Junes",
+          "entity": "object_name"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "entity": "rating_value"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "6",
+          "entity": "best_rating"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Give "
+        },
+        {
+          "text": "four",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "stars",
+          "entity": "rating_unit"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "The Broken Window",
+          "entity": "object_name"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "text": "Rate the "
+        },
+        {
+          "text": "current",
+          "entity": "object_select"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "series",
+          "entity": "object_part_of_series_type"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "4",
+          "entity": "rating_value"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "points",
+          "entity": "rating_unit"
+        }
+      ]
+    }
+  ]
+}
