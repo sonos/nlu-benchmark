@@ -13,4 +13,3 @@ Each value is displayed 5 times, corresponding to the number of random samples s
 
 ### Disclaimer
 This benchmark has been run by Snips, which is one of the solutions benchmarked. To avoid biases in responses, this benchmark has been run in a blindfolded way, by a team independent from the data scientists working on the problem. The raw data is provided here to guarantee transparency.
-
