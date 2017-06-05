@@ -1,0 +1,102 @@
+{
+    "intents": {
+        "AddToPlaylist": {
+            "recall": {
+                "1999": [
+                    1.0
+                ]
+            }, 
+            "slots": {
+                "playlist": {
+                    "recall": {
+                        "1999": [
+                            0.97
+                        ]
+                    }, 
+                    "rate": 100, 
+                    "precision": {
+                        "1999": [
+                            0.9603960396039604
+                        ]
+                    }
+                }, 
+                "music_item": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 46, 
+                    "precision": {
+                        "1999": [
+                            0.9821428571428571
+                        ]
+                    }
+                }, 
+                "playlist_owner": {
+                    "recall": {
+                        "1999": [
+                            0.9814814814814815
+                        ]
+                    }, 
+                    "rate": 57, 
+                    "precision": {
+                        "1999": [
+                            0.9814814814814815
+                        ]
+                    }
+                }, 
+                "entity_name": {
+                    "recall": {
+                        "1999": [
+                            0.6111111111111112
+                        ]
+                    }, 
+                    "rate": 30, 
+                    "precision": {
+                        "1999": [
+                            0.7333333333333333
+                        ]
+                    }
+                }, 
+                "artist": {
+                    "recall": {
+                        "1999": [
+                            0.9565217391304348
+                        ]
+                    }, 
+                    "rate": 38, 
+                    "precision": {
+                        "1999": [
+                            0.88
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "1999": [
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "1999": [
+                0.025904839038848878
+            ]
+        }, 
+        "fit": {
+            "1999": [
+                53.05514192581177
+            ]
+        }
+    }, 
+    "validation_path": "data/en/amt/bench/heavy/2000/snips/validate_AddToPlaylist.json", 
+    "training_path": "data/en/amt/bench/heavy/2000/snips/train_AddToPlaylist.json", 
+    "training_name": "AddToPlaylist", 
+    "model_name": "Snips", 
+    "training_sizes": [
+        1999
+    ]
+}

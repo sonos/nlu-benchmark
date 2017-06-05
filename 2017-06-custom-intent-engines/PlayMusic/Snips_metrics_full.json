@@ -1,0 +1,154 @@
+{
+    "intents": {
+        "PlayMusic": {
+            "recall": {
+                "1999": [
+                    0.98
+                ]
+            }, 
+            "slots": {
+                "album": {
+                    "recall": {
+                        "1999": [
+                            0.6923076923076923
+                        ]
+                    }, 
+                    "rate": 8, 
+                    "precision": {
+                        "1999": [
+                            0.75
+                        ]
+                    }
+                }, 
+                "sort": {
+                    "recall": {
+                        "1999": [
+                            0.7647058823529411
+                        ]
+                    }, 
+                    "rate": 17, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "playlist": {
+                    "recall": {
+                        "1999": [
+                            0.5555555555555556
+                        ]
+                    }, 
+                    "rate": 7, 
+                    "precision": {
+                        "1999": [
+                            0.625
+                        ]
+                    }
+                }, 
+                "service": {
+                    "recall": {
+                        "1999": [
+                            0.9230769230769231
+                        ]
+                    }, 
+                    "rate": 38, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "artist": {
+                    "recall": {
+                        "1999": [
+                            0.873015873015873
+                        ]
+                    }, 
+                    "rate": 58, 
+                    "precision": {
+                        "1999": [
+                            0.9166666666666666
+                        ]
+                    }
+                }, 
+                "track": {
+                    "recall": {
+                        "1999": [
+                            0.5
+                        ]
+                    }, 
+                    "rate": 10, 
+                    "precision": {
+                        "1999": [
+                            0.42857142857142855
+                        ]
+                    }
+                }, 
+                "music_item": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 39, 
+                    "precision": {
+                        "1999": [
+                            0.9393939393939394
+                        ]
+                    }
+                }, 
+                "year": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 31, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "genre": {
+                    "recall": {
+                        "1999": [
+                            0.6666666666666666
+                        ]
+                    }, 
+                    "rate": 7, 
+                    "precision": {
+                        "1999": [
+                            0.4
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "1999": [
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "1999": [
+                0.01921431064605713
+            ]
+        }, 
+        "fit": {
+            "1999": [
+                33.443089962005615
+            ]
+        }
+    }, 
+    "validation_path": "data/en/amt/bench/heavy/2000/snips/validate_PlayMusic.json", 
+    "training_path": "data/en/amt/bench/heavy/2000/snips/train_PlayMusic.json", 
+    "training_name": "PlayMusic", 
+    "model_name": "Snips", 
+    "training_sizes": [
+        1999
+    ]
+}

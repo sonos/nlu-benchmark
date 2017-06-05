@@ -1,0 +1,219 @@
+{
+    "intents": {
+        "BookRestaurant": {
+            "recall": {
+                "1999": [
+                    1.0
+                ]
+            }, 
+            "slots": {
+                "sort": {
+                    "recall": {
+                        "1999": [
+                            0.8888888888888888
+                        ]
+                    }, 
+                    "rate": 10, 
+                    "precision": {
+                        "1999": [
+                            0.8888888888888888
+                        ]
+                    }
+                }, 
+                "city": {
+                    "recall": {
+                        "1999": [
+                            0.9393939393939394
+                        ]
+                    }, 
+                    "rate": 26, 
+                    "precision": {
+                        "1999": [
+                            0.8857142857142857
+                        ]
+                    }
+                }, 
+                "spatial_relation": {
+                    "recall": {
+                        "1999": [
+                            0.9473684210526315
+                        ]
+                    }, 
+                    "rate": 16, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "facility": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 8, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "country": {
+                    "recall": {
+                        "1999": [
+                            0.85
+                        ]
+                    }, 
+                    "rate": 18, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "party_size_description": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 16, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "restaurant_type": {
+                    "recall": {
+                        "1999": [
+                            0.9516129032258065
+                        ]
+                    }, 
+                    "rate": 68, 
+                    "precision": {
+                        "1999": [
+                            0.9365079365079365
+                        ]
+                    }
+                }, 
+                "cuisine": {
+                    "recall": {
+                        "1999": [
+                            0.8181818181818182
+                        ]
+                    }, 
+                    "rate": 10, 
+                    "precision": {
+                        "1999": [
+                            0.8181818181818182
+                        ]
+                    }
+                }, 
+                "state": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 26, 
+                    "precision": {
+                        "1999": [
+                            0.9615384615384616
+                        ]
+                    }
+                }, 
+                "restaurant_name": {
+                    "recall": {
+                        "1999": [
+                            0.95
+                        ]
+                    }, 
+                    "rate": 17, 
+                    "precision": {
+                        "1999": [
+                            0.95
+                        ]
+                    }
+                }, 
+                "poi": {
+                    "recall": {
+                        "1999": [
+                            0.6666666666666666
+                        ]
+                    }, 
+                    "rate": 7, 
+                    "precision": {
+                        "1999": [
+                            0.8
+                        ]
+                    }
+                }, 
+                "party_size_number": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 52, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "served_dish": {
+                    "recall": {
+                        "1999": [
+                            0.6
+                        ]
+                    }, 
+                    "rate": 13, 
+                    "precision": {
+                        "1999": [
+                            0.42857142857142855
+                        ]
+                    }
+                }, 
+                "snips/datetime": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 34, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "1999": [
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "1999": [
+                0.07689863920211792
+            ]
+        }, 
+        "fit": {
+            "1999": [
+                146.56977605819702
+            ]
+        }
+    }, 
+    "validation_path": "data/en/amt/bench/heavy/2000/snips/validate_BookRestaurant.json", 
+    "training_path": "data/en/amt/bench/heavy/2000/snips/train_BookRestaurant.json", 
+    "training_name": "BookRestaurant", 
+    "model_name": "Snips", 
+    "training_sizes": [
+        1999
+    ]
+}

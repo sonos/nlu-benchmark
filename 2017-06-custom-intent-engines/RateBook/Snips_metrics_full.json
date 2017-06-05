@@ -1,0 +1,128 @@
+{
+    "intents": {
+        "RateBook": {
+            "recall": {
+                "1999": [
+                    1.0
+                ]
+            }, 
+            "slots": {
+                "object_part_of_series_type": {
+                    "recall": {
+                        "1999": [
+                            0.8666666666666667
+                        ]
+                    }, 
+                    "rate": 15, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "rating_value": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 100, 
+                    "precision": {
+                        "1999": [
+                            0.9900990099009901
+                        ]
+                    }
+                }, 
+                "object_type": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 48, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }, 
+                "object_select": {
+                    "recall": {
+                        "1999": [
+                            0.9183673469387755
+                        ]
+                    }, 
+                    "rate": 50, 
+                    "precision": {
+                        "1999": [
+                            0.9782608695652174
+                        ]
+                    }
+                }, 
+                "object_name": {
+                    "recall": {
+                        "1999": [
+                            0.9411764705882353
+                        ]
+                    }, 
+                    "rate": 50, 
+                    "precision": {
+                        "1999": [
+                            0.96
+                        ]
+                    }
+                }, 
+                "rating_unit": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 57, 
+                    "precision": {
+                        "1999": [
+                            0.9838709677419355
+                        ]
+                    }
+                }, 
+                "best_rating": {
+                    "recall": {
+                        "1999": [
+                            1.0
+                        ]
+                    }, 
+                    "rate": 53, 
+                    "precision": {
+                        "1999": [
+                            1.0
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "1999": [
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "1999": [
+                0.021336560249328614
+            ]
+        }, 
+        "fit": {
+            "1999": [
+                54.609976053237915
+            ]
+        }
+    }, 
+    "validation_path": "data/en/amt/bench/heavy/2000/snips/validate_RateBook.json", 
+    "training_path": "data/en/amt/bench/heavy/2000/snips/train_RateBook.json", 
+    "training_name": "RateBook", 
+    "model_name": "Snips", 
+    "training_sizes": [
+        1999
+    ]
+}

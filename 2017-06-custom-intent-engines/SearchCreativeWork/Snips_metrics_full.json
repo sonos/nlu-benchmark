@@ -1,0 +1,63 @@
+{
+    "intents": {
+        "SearchCreativeWork": {
+            "recall": {
+                "1999": [
+                    1.0
+                ]
+            }, 
+            "slots": {
+                "object_name": {
+                    "recall": {
+                        "1999": [
+                            0.92
+                        ]
+                    }, 
+                    "rate": 100, 
+                    "precision": {
+                        "1999": [
+                            0.9292929292929293
+                        ]
+                    }
+                }, 
+                "object_type": {
+                    "recall": {
+                        "1999": [
+                            0.9452054794520548
+                        ]
+                    }, 
+                    "rate": 74, 
+                    "precision": {
+                        "1999": [
+                            0.9857142857142858
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "1999": [
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "1999": [
+                0.01446274995803833
+            ]
+        }, 
+        "fit": {
+            "1999": [
+                26.101171016693115
+            ]
+        }
+    }, 
+    "validation_path": "data/en/amt/bench/heavy/2000/snips/validate_SearchCreativeWork.json", 
+    "training_path": "data/en/amt/bench/heavy/2000/snips/train_SearchCreativeWork.json", 
+    "training_name": "SearchCreativeWork", 
+    "model_name": "Snips", 
+    "training_sizes": [
+        1999
+    ]
+}
