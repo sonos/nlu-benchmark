@@ -11,7 +11,7 @@ We focused on seven `intents`:
 * RateBook (e.g. Give 6 stars to Of Mice and Men)
 * SearchScreeningEvent (e.g. Check the showtimes for Wonder Woman in Paris)
 
-More than 2000 queries have been generated for each intent with crowdsourcing methods. 10, 20, 50, 70, and 2000 queries have been randomly selected several times to train the competitors. The training sets up to 70 queries are drawn among the train_intent.json files, and the 2000 are provided by the train_intent_2000.json files.
+More than 2000 queries have been generated for each intent with crowdsourcing methods. 10, 20, 50, 70, and around 2000 (depending on the intent) queries have been randomly selected several times to train the competitors. The training sets up to 70 queries are drawn among the train_intent.json files, and the ~2000 are provided by the train_intent_full.json files.
 
 The results of the benchmark are displayed on the different `metrics` files, one per each intent and competitor. More specifically, the `precision` and `recall` are displayed for each `slot`.
 Each value is displayed 3 times, corresponding to the number of random samples selected for each training size. 
