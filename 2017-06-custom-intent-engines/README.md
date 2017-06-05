@@ -1,6 +1,6 @@
 # Natural Language Understanding benchmark
 
-This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results will be described in more details in a soon to be released blog post.
+This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results are described in [this blog post](https://medium.com/@alicecoucke/benchmarking-natural-language-understanding-systems-google-facebook-microsoft-and-snips-2b8ddcf9fb19).
 
 We focused on seven `intents`:
 * SearchCreativeWork (e.g. Find me the I, Robot television show),
