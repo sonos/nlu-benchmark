@@ -3,15 +3,15 @@
 This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results will be described in more details in a soon to be released blog post.
 
 We focused on seven `intents`:
-* SearchCreativeWork (e.g. Find me the House of Cards television show),
+* SearchCreativeWork (e.g. Find me the I, Robot television show),
 * GetWeather (e.g. Is it windy in Boston, MA right now?),
 * BookRestaurant (e.g. I want to book a highly rated restaurant for me and my boyfriend tomorrow night)
 * PlayMusic (e.g. Play the last track from Beyoncé off Spotify)
 * AddToPlaylist (e.g. Add Diamonds to my roadtrip playlist)
 * RateBook (e.g. Give 6 stars to Of Mice and Men)
-* SearchScreeningEvent (e.g. Check the showtimes for I, Daniel Blake in Paris)
+* SearchScreeningEvent (e.g. Check the showtimes for Wonder Woman in Paris)
 
-More than 2000 queries have been generated for each intent with crowdsourcing methods. 10, 20, 50, 70, and 2000 queries have been randomly selected 3 times to train the competitors. 
+More than 2000 queries have been generated for each intent with crowdsourcing methods. 10, 20, 50, 70, and 2000 queries have been randomly selected several times to train the competitors. The training sets up to 70 queries are drawn among the train_intent.json files, and the 2000 are provided by the train_intent_2000.json files.
 
 The results of the benchmark are displayed on the different `metrics` files, one per each intent and competitor. More specifically, the `precision` and `recall` are displayed for each `slot`.
 Each value is displayed 3 times, corresponding to the number of random samples selected for each training size. 
