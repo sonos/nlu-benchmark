@@ -26,14 +26,14 @@ In general, we gave each provider the benefit of the doubt. If anything, their p
 The following built-in entities were used:
 `@sys.date-time`, `@sys.geo-city-us`, `@sys.geo-country`, `@sys.geo-state-us`, `@sys.music-artist`, `@sys.music-genre`.
 
-The model cannot really be trained programmatically: each intent still needs to be manually saved on the web console.
+The model cannot really be trained programmatically: each intent still needs to be manually saved on the web console (or through a curl command with an updated cookie).
 The parsing giving back formatted values for the date-time and location built-in entities without span indices, we counted a prediction as correct if an entity of the same type was present in the original query (without checking for an absolute match).
 
 ### Wit.ai
 The following built-in entities were used:
 `wit$datetime`.
 
-The model cannot really be trained programmatically: each entity needs to be manually set to 'free text' on the web console. The parsing giving back formatted values for the datetime built-in entity without span indices, we counted a prediction as correct if a datetime entity was also present in the original query (without checking for an absolute match).
+The model cannot really be trained programmatically: each entity needs to be manually set to 'free text' on the web console (or through a curl command with an updated cookie). The parsing giving back formatted values for the datetime built-in entity without span indices, we counted a prediction as correct if a datetime entity was also present in the original query (without checking for an absolute match).
 
 ### Luis.ai
 The following built-in entities were used:
