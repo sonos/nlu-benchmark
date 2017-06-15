@@ -1,0 +1,79 @@
+{
+    "intents": {
+        "SearchCreativeWork": {
+            "recall": {
+                "70": [
+                    1.0, 
+                    0.98, 
+                    1.0
+                ]
+            }, 
+            "slots": {
+                "object_name": {
+                    "recall": {
+                        "70": [
+                            0.35, 
+                            0.44, 
+                            0.34
+                        ]
+                    }, 
+                    "rate": 300, 
+                    "precision": {
+                        "70": [
+                            0.4375, 
+                            0.4835164835164835, 
+                            0.4358974358974359
+                        ]
+                    }
+                }, 
+                "object_type": {
+                    "recall": {
+                        "70": [
+                            0.2876712328767123, 
+                            0.2465753424657534, 
+                            0.273972602739726
+                        ]
+                    }, 
+                    "rate": 233, 
+                    "precision": {
+                        "70": [
+                            0.4883720930232558, 
+                            0.6206896551724138, 
+                            0.4878048780487805
+                        ]
+                    }
+                }
+            }, 
+            "precision": {
+                "70": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }
+        }
+    }, 
+    "execution_time": {
+        "pred": {
+            "70": [
+                0.030044379234313964, 
+                0.03003464937210083, 
+                0.03000720977783203
+            ]
+        }, 
+        "fit": {
+            "70": [
+                3.004272937774658, 
+                3.005048990249634, 
+                3.004242181777954
+            ]
+        }
+    }, 
+    "validation_path": "../alexa-bench/alexa_bench/resources/predictions_relabeled/", 
+    "training_path": "../alexa-bench/alexa_bench/resources/", 
+    "training_name": "SearchCreativeWork", 
+    "model_name": "Alexa", 
+    "training_sizes": [
+        70
+    ]
+}
