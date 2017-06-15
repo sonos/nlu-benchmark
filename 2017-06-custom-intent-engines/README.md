@@ -39,7 +39,7 @@ The model cannot really be trained programmatically: each entity needs to be man
 The following built-in entities were used:
 `datetimeV2`.
 
-The model can be fully trained programmatically.
+The model can be trained fully programmatically through the API reference.
 
 ### Alexa
 There is not API reference available, we had to proceed manually.
