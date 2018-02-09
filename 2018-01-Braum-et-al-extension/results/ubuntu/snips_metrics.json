@@ -1,0 +1,70 @@
+{
+  "elapsed_time": 11.036425, 
+  "intents": {
+    "None": {
+      "recall": 0.2, 
+      "true_positive": 1, 
+      "false_positive": 1, 
+      "precision": 0.5, 
+      "false_negative": 4
+    }, 
+    "Make Update": {
+      "recall": 0.972972972972973, 
+      "false_positive": 3, 
+      "true_positive": 36, 
+      "precision": 0.9230769230769231, 
+      "false_negative": 1
+    }, 
+    "Setup Printer": {
+      "recall": 1.0, 
+      "true_positive": 13, 
+      "false_positive": 2, 
+      "precision": 0.8666666666666667, 
+      "false_negative": 0
+    }, 
+    "Shutdown Computer": {
+      "recall": 1.0, 
+      "false_positive": 0, 
+      "true_positive": 14, 
+      "precision": 1.0, 
+      "false_negative": 0
+    }, 
+    "Software Recommendation": {
+      "recall": 0.65, 
+      "true_positive": 26, 
+      "false_positive": 1, 
+      "precision": 0.9629629629629629, 
+      "false_negative": 14
+    }, 
+    "null": {
+      "recall": 0.0, 
+      "false_positive": 12, 
+      "true_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 0
+    }
+  }, 
+  "slots": {
+    "UbuntuVersion": {
+      "recall": 0.8333333333333334, 
+      "false_positive": 17, 
+      "true_positive": 65, 
+      "precision": 0.7926829268292683, 
+      "false_negative": 13
+    }, 
+    "Printer": {
+      "recall": 0.8333333333333334, 
+      "true_positive": 10, 
+      "false_positive": 2, 
+      "precision": 0.8333333333333334, 
+      "false_negative": 2
+    }, 
+    "SoftwareName": {
+      "recall": 0.0, 
+      "false_positive": 1, 
+      "true_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 4
+    }
+  }
+}

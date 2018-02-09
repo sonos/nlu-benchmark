@@ -1,0 +1,77 @@
+{
+  "elapsed_time": 19.411594, 
+  "intents": {
+    "None": {
+      "recall": 0.0, 
+      "false_positive": 0, 
+      "true_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 4
+    }, 
+    "Change Password": {
+      "recall": 0.8333333333333334, 
+      "false_positive": 0, 
+      "true_positive": 5, 
+      "precision": 1.0, 
+      "false_negative": 1
+    }, 
+    "Filter Spam": {
+      "recall": 0.7857142857142857, 
+      "false_positive": 0, 
+      "true_positive": 11, 
+      "precision": 1.0, 
+      "false_negative": 3
+    }, 
+    "Sync Accounts": {
+      "recall": 0.5, 
+      "false_positive": 0, 
+      "true_positive": 3, 
+      "precision": 1.0, 
+      "false_negative": 3
+    }, 
+    "Download Video": {
+      "recall": 0.0, 
+      "true_positive": 0, 
+      "false_positive": 2, 
+      "precision": 0.0, 
+      "false_negative": 0
+    }, 
+    "Delete Account": {
+      "recall": 0.9, 
+      "true_positive": 9, 
+      "false_positive": 4, 
+      "precision": 0.6923076923076923, 
+      "false_negative": 1
+    }, 
+    "Export Data": {
+      "recall": 1.0, 
+      "true_positive": 3, 
+      "false_positive": 2, 
+      "precision": 0.6, 
+      "false_negative": 0
+    }, 
+    "null": {
+      "recall": 0.0, 
+      "false_positive": 4, 
+      "true_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 0
+    }, 
+    "Find Alternative": {
+      "recall": 0.9375, 
+      "true_positive": 15, 
+      "false_positive": 1, 
+      "precision": 0.9375, 
+      "false_negative": 1
+    }
+  }, 
+  "slots": {
+    "WebService": {
+      "recall": 0.5, 
+      "false_positive": 28, 
+      "true_positive": 32, 
+      "precision": 0.5333333333333333, 
+      "false_negative": 32
+    }
+  }
+}

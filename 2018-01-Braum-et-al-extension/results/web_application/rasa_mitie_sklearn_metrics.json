@@ -1,0 +1,63 @@
+{
+  "elapsed_time": 577.880747, 
+  "intents": {
+    "None": {
+      "recall": 0.0, 
+      "false_positive": 0, 
+      "true_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 4
+    }, 
+    "Change Password": {
+      "recall": 0.5, 
+      "false_positive": 1, 
+      "true_positive": 3, 
+      "precision": 0.75, 
+      "false_negative": 3
+    }, 
+    "Filter Spam": {
+      "recall": 0.7857142857142857, 
+      "true_positive": 11, 
+      "false_positive": 11, 
+      "precision": 0.5, 
+      "false_negative": 3
+    }, 
+    "Sync Accounts": {
+      "recall": 0.3333333333333333, 
+      "false_positive": 0, 
+      "true_positive": 2, 
+      "precision": 1.0, 
+      "false_negative": 4
+    }, 
+    "Export Data": {
+      "recall": 0.0, 
+      "true_positive": 0, 
+      "false_positive": 0, 
+      "precision": 0.0, 
+      "false_negative": 3
+    }, 
+    "Delete Account": {
+      "recall": 0.8, 
+      "true_positive": 8, 
+      "false_positive": 2, 
+      "precision": 0.8, 
+      "false_negative": 2
+    }, 
+    "Find Alternative": {
+      "recall": 1.0, 
+      "true_positive": 16, 
+      "false_positive": 5, 
+      "precision": 0.7619047619047619, 
+      "false_negative": 0
+    }
+  }, 
+  "slots": {
+    "WebService": {
+      "recall": 0.75, 
+      "false_positive": 71, 
+      "true_positive": 48, 
+      "precision": 0.40336134453781514, 
+      "false_negative": 16
+    }
+  }
+}

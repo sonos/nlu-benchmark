@@ -1,0 +1,55 @@
+{
+  "elapsed_time": 0, 
+  "intents": {
+    "DepartureTime": {
+      "recall": 0.971, 
+      "true_positive": 34, 
+      "false_positive": 1, 
+      "precision": 0.971, 
+      "false_negative": 1
+    }, 
+    "FindConnection": {
+      "recall": 0.986, 
+      "true_positive": 70, 
+      "false_positive": 1, 
+      "precision": 0.986, 
+      "false_negative": 1
+    }
+  }, 
+  "slots": {
+    "StationDest": {
+      "recall": 0.915, 
+      "false_positive": 3, 
+      "true_positive": 65, 
+      "precision": 0.956, 
+      "false_negative": 6
+    }, 
+    "Criterion": {
+      "recall": 1.0, 
+      "false_positive": 0, 
+      "true_positive": 34, 
+      "precision": 1.0, 
+      "false_negative": 0
+    }, 
+    "Vehicle": {
+      "recall": 0.943, 
+      "false_positive": 0, 
+      "true_positive": 33, 
+      "precision": 1.0, 
+      "false_negative": 2
+    }, 
+    "Line": {
+      "recall": 0, 
+      "false_positive": 0, 
+      "true_positive": 0, 
+      "false_negative": 2
+    }, 
+    "StationStart": {
+      "recall": 0.841, 
+      "false_positive": 5, 
+      "true_positive": 90, 
+      "precision": 0.947, 
+      "false_negative": 17
+    }
+  }
+}
