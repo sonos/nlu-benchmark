@@ -11,7 +11,7 @@ We reproduced the analysis with the same methodology, on the [same datasets](htt
 
 The exact same splits as in the original article were used for the _Ubuntu_ and _Web Applications_ corpuses. These splits were not explicit in the _Chatbot_ [dataset](https://github.com/sebischair/NLU-Evaluation-Corpora): in that case, we ran a 5-fold cross-validation.
 
-Raw metrics by intent and slot can be found in the `/results` folder. Below, you will find the results obtained, for each dataset.
+Raw metrics by intent and slot can be found in the `/results` folder. Below, you will find the results obtained, for each dataset. Note that _None_ intents were ignored when computing the metrics, as in the original article.
 
 
 Chatbots
