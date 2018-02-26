@@ -27,20 +27,20 @@ Web applications
 
 | NLU Engine              | Precision | Recall | F-score |
 | ----------------------- | --------- | ------ | ------- |
-| Snips                   | 65%       | 63%    | 64%     |
-| Rasa (Spacy)            | 59%       | 59%    | 59%     |
-| Rasa (SKLearn + Mittie) | 49%       | 49%    | 58%     |
-| Rasa (Mittie)           | 51%       | 51%    | 60%     |
+| Snips                   | 65%       | 65%    | 65%     |
+| Rasa (Spacy)            | 59%       | 61%    | 60%     |
+| Rasa (SKLearn + Mittie) | 49%       | 74%    | 59%     |
+| Rasa (Mittie)           | 51%       | 76%    | 61%     |
 
 Ubuntu
 ======
 
 | NLU Engine              | Precision | Recall | F-score |
 | ----------------------- | --------- | ------ | ------- |
-| Snips                   | 81%       | 81%    | 81%     |
-| Rasa (Spacy)            | 80%       | 75%    | 77%     |
-| Rasa (SKLearn + Mittie) | 82%       | 81%    | 81%     |
-| Rasa (Mittie)           | 83%       | 82%    | 83%     |
+| Snips                   | 81%       | 82%    | 82%     |
+| Rasa (Spacy)            | 80%       | 77%    | 78%     |
+| Rasa (SKLearn + Mittie) | 82%       | 83%    | 83%     |
+| Rasa (Mittie)           | 83%       | 84%    | 84%     |
 
 Total
 ======
