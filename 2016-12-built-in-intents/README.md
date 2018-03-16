@@ -1,6 +1,10 @@
 # Natural Language Understanding benchmark
 
-This file contains the results of the benchmark we ran on December 22nd 2016 to compare natural language understanding services offering built-in solutions (Apple’s SiriKit, Amazon’s Alexa, Microsoft’s Luis, Google’s API.ai, and Snips’ SDK) for the intents covered by the [Snips SDK](https://sdk.snips.ai/). This benchmark and its results are described in length in the [following post](
+This file contains the results of the benchmark we ran on December 22nd 2016
+ to compare natural language understanding services offering built-in
+ solutions (Apple’s SiriKit, Amazon’s Alexa, Microsoft’s Luis, Google’s API
+ .ai, and [Snips.ai](https://snips.ai/)) on a selection of various intents.
+ This benchmark and its results are described in length in the [following post](
 https://snips.ai/content/sdk-benchmark-visualisation/).
 
 The data is structured by `domain`, and by `intent` within each `domain`. For each intent, aggregated statistics are contained in a `benchmark` dictionary containing the `f1`, `precision`, `recall`, and `classification accuracy` for each service, with corresponding uncertainty ranges (2 standard deviations). The same quantities are then given for each slot of each intent.
