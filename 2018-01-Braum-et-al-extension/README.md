@@ -1,6 +1,6 @@
 In January 2018, we ran an additional series of experiments to  evaluate our Natural Language Understanding (NLU) solution.
 
-These experiments replicate the analysis made by Braun et el, published in _Evaluating Natural Language Understanding Services for Conversational Question Answering Systems_ as part of SIGDIAL 2017 proceedings ([pdf](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL22.pdf)). This article proposes a comparison of 4 NLU services:
+These experiments replicate the analysis made by Braun et el, published in _Evaluating Natural Language Understanding Services for Conversational Question Answering Systems_ as part of SIGDIAL 2017 proceedings ([pdf](http://workshop.colips.org/wochat/@sigdial2017/documents/SIGDIAL22.pdf)). This article proposes a comparison of 4 NLU services:
 
 - Luis.ai
 - Watson
