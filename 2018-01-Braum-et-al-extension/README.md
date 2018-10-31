@@ -9,7 +9,7 @@ These experiments replicate the analysis made by Braun et el, published in _Eval
 
 We reproduced the analysis with the same methodology, on the [same datasets](https://github.com/sebischair/NLU-Evaluation-Corpora), for both Snips NLU library and Rasa, in their January 2018 versions. For Rasa, we considered all three possible backends (Spacy, SKLearn + Mittie, Mittie). However, only Spacy was run on all 3 datasets, for train time reasons.
 
-The exact same splits as in the original article were used for the _Ubuntu_ and _Web Applications_ corpuses. These splits were not explicit in the _Chatbot_ [dataset](https://github.com/sebischair/NLU-Evaluation-Corpora): in that case, we ran a 5-fold cross-validation.
+The exact same splits as in the original article were used for the _Ubuntu_ and _Web Applications_ corpuses. A training flag is also present in the _Chatbot_ [dataset](https://github.com/sebischair/NLU-Evaluation-Corpora) but it was added after we ran the benchmark. Hence, back then, the train/test split was not explicit for this dataset: in that case, we ran a 5-fold cross-validation.
 
 Raw metrics by intent and slot can be found in the `/results` folder. Below, you will find the results obtained, for each dataset. Note that _None_ intents were ignored when computing the metrics, as in the original article.
 
