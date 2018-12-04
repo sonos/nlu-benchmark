@@ -12,9 +12,8 @@ This experiment replicates the analysis made by Braun et al., 2017, published in
 
 The data is provided for each benchmark and more details about the methods are available in the README file in each folder.
 
-**Any publication based on these datasets must include a full citation to the following paper:** 
+**Any publication based on these datasets must include a full citation to the following paper in which the results were published by Snips:** 
 
-**["Snips Voice Platform: an embedded Spoken Language Understanding system 
-for private-by-design voice interfaces"](https://arxiv.org/abs/1805.10190),**
+["Snips Voice Platform: an embedded Spoken Language Understanding system 
+for private-by-design voice interfaces"](https://arxiv.org/abs/1805.10190)
 
-**in which the results were published by Snips.**
