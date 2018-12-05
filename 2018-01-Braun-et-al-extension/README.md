@@ -7,7 +7,7 @@ These experiments replicate the analysis made by Braun et al., 2017, published i
 - API.ai
 - Rasa
 
-We reproduced the analysis with the same methodology, on the [same datasets](https://github.com/sebischair/NLU-Evaluation-Corpora), for both Snips NLU library and Rasa, in their January 2018 versions. For Rasa, we considered all three possible backends (Spacy, SKLearn + Mittie, Mittie). However, only Spacy was run on all 3 datasets, for train time reasons.
+We reproduced the analysis with the same methodology, on the [same datasets](https://github.com/sebischair/NLU-Evaluation-Corpora), for both Snips NLU library and Rasa, in their January 2018 versions. For Rasa, we considered all three possible backends (Spacy, SKLearn + MITIE, MITIE). However, only Spacy was run on all 3 datasets, for train time reasons.
 
 The exact same splits as in the original article were used for the _Ubuntu_ and _Web Applications_ corpuses. A training flag is also present in the _Chatbot_ [dataset](https://github.com/sebischair/NLU-Evaluation-Corpora) but it was added after we ran the benchmark. Hence, back then, the train/test split was not explicit for this dataset: in that case, we ran a 5-fold cross-validation.
 
@@ -29,8 +29,8 @@ Web applications
 | ----------------------- | --------- | ------ | ------- |
 | Snips                   | 65%       | 65%    | 65%     |
 | Rasa (Spacy)            | 59%       | 61%    | 60%     |
-| Rasa (SKLearn + Mittie) | 49%       | 74%    | 59%     |
-| Rasa (Mittie)           | 51%       | 76%    | 61%     |
+| Rasa (SKLearn + MITIE) | 49%       | 74%    | 59%     |
+| Rasa (MITIE)           | 51%       | 76%    | 61%     |
 
 Ubuntu
 ======
@@ -39,8 +39,8 @@ Ubuntu
 | ----------------------- | --------- | ------ | ------- |
 | Snips                   | 81%       | 82%    | 82%     |
 | Rasa (Spacy)            | 80%       | 77%    | 78%     |
-| Rasa (SKLearn + Mittie) | 82%       | 83%    | 83%     |
-| Rasa (Mittie)           | 83%       | 84%    | 84%     |
+| Rasa (SKLearn + MITIE) | 82%       | 83%    | 83%     |
+| Rasa (MITIE)           | 83%       | 84%    | 84%     |
 
 Total
 ======
