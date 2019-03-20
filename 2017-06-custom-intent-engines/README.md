@@ -1,6 +1,12 @@
 # Natural Language Understanding benchmark
 
-This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results are described in [this blog post](https://medium.com/@alicecoucke/benchmarking-natural-language-understanding-systems-google-facebook-microsoft-and-snips-2b8ddcf9fb19).
+This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results are described in [this paper](https://arxiv.org/abs/1805.10190) and [this blog post](https://medium.com/@alicecoucke/benchmarking-natural-language-understanding-systems-google-facebook-microsoft-and-snips-2b8ddcf9fb19).
+
+**Any publication based on these datasets must include a full citation to the following paper in which the results were published by Snips:** 
+
+["Snips Voice Platform: an embedded Spoken Language Understanding system 
+for private-by-design voice interfaces"](https://arxiv.org/abs/1805.10190)
+
 
 ## Method
 We focused on seven `intents`:
