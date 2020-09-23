@@ -11,8 +11,13 @@ This experiment replicates the analysis made by Braun et al., 2017, published in
 
 The data is provided for each benchmark and more details about the methods are available in the README file in each folder.
 
-**Any publication based on these datasets must include a full citation to the following paper in which the results were published by Snips:** 
+**Any publication based on these datasets must include a full citation to the following paper in which the results were published by the Snips Team<sup>1</sup>:** 
 
-["Snips Voice Platform: an embedded Spoken Language Understanding system 
-for private-by-design voice interfaces"](https://arxiv.org/abs/1805.10190)
+[Coucke A. et al., "Snips Voice Platform: an embedded Spoken Language Understanding system 
+for private-by-design voice interfaces." 2018,](https://arxiv.org/abs/1805.10190)
 
+accepted for a spotlight presentation at the [Privacy in Machine Learning and Artificial Intelligence workshop](https://pimlai.github.io/pimlai18/#papers) colocated with ICML 2018.
+
+
+
+<sup>1</sup> *The Snips team has joined Sonos in November 2019. These open datasets remain available and their access is now managed by the Sonos Voice Experience Team. Please email sve-research@sonos.com with any question.*
