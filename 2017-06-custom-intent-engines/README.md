@@ -2,10 +2,12 @@
 
 This file contains the results of the benchmark we ran on June 1st 2017 to compare natural language understanding services offering custom solutions (Wit, Luis, Api, and Snips) for seven intents. This benchmark and its results are described in [this paper](https://arxiv.org/abs/1805.10190) and [this blog post](https://medium.com/@alicecoucke/benchmarking-natural-language-understanding-systems-google-facebook-microsoft-and-snips-2b8ddcf9fb19).
 
-**Any publication based on these datasets must include a full citation to the following paper in which the results were published by Snips:** 
+**Any publication based on these datasets must include a full citation to the following paper in which the results were published by the Snips Team<sup>1</sup>:** 
 
-["Snips Voice Platform: an embedded Spoken Language Understanding system 
-for private-by-design voice interfaces"](https://arxiv.org/abs/1805.10190)
+[Coucke A. et al., "Snips Voice Platform: an embedded Spoken Language Understanding system 
+for private-by-design voice interfaces." 2018,](https://arxiv.org/abs/1805.10190)
+
+accepted for a spotlight presentation at the [Privacy in Machine Learning and Artificial Intelligence workshop](https://pimlai.github.io/pimlai18/#papers) colocated with ICML 2018.
 
 
 ## Method
@@ -63,3 +65,6 @@ The following built-in entities were used:
 ## Disclaimer
 This benchmark has been run by Snips, which is one of the solutions benchmarked. To avoid biases in responses, this benchmark has been run in a blindfolded way, by a team independent from the data scientists working on the problem. The raw data is provided here to guarantee transparency.
 
+
+
+<sup>1</sup> *The Snips team has joined Sonos in November 2019. These open datasets remain available and their access is now managed by the Sonos Voice Experience Team. Please email sve-research@sonos.com with any question.*
