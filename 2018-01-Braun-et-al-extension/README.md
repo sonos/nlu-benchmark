@@ -1,4 +1,4 @@
-In January 2018, we ran an additional series of experiments to  evaluate our Natural Language Understanding (NLU) solution.
+In January 2018, the Snips team<sup>1</sup> ran an additional series of experiments to  evaluate its Natural Language Understanding (NLU) solution.
 
 These experiments replicate the analysis made by Braun et al., 2017, published in _Evaluating Natural Language Understanding Services for Conversational Question Answering Systems_ as part of SIGDIAL 2017 proceedings ([pdf](http://workshop.colips.org/wochat/@sigdial2017/documents/SIGDIAL22.pdf)). This article proposes a comparison of 4 NLU services:
 
@@ -49,3 +49,6 @@ Total
 | ----------------------- | --------- | ------ | ------- |
 | Snips                   | 89%       | 85%    | 87%     |
 | Rasa (Spacy)            | 87%       | 85%    | 86%     |
+
+
+<sup>1</sup> *The Snips team has joined Sonos in November 2019. These open datasets remain available and their access is now managed by the Sonos Voice Experience Team. Please email sve-research@sonos.com with any question.*
